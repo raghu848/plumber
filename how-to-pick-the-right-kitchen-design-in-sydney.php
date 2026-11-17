@@ -54,7 +54,7 @@
                             <div class="inner-box">
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img src="images/resource/how-to-pick-the-right-kitchen-design-in-sydney.jpg" alt="Sydney Plumbing" title="<?php echo $blogname; ? loading="lazy" decoding="async">">
+                                        <img src="images/resource/how-to-pick-the-right-kitchen-design-in-sydney.jpg" alt="Sydney Plumbing" title="<?php echo $blogname; ?>">
                                     </div>
                                 </div>
                                 <div class="post-meta">

@@ -51,7 +51,7 @@
                                 <div class="inner-box">
                                     <div class="upper">
                                         <div class="image-box">
-                                            <img src="images/blog/how-to-maintain-your-stormwater-drain.jpg" alt="<?php echo $blogname; ? loading="lazy" decoding="async">" title="<?php echo $blogname; ?>">
+                                            <img src="images/blog/how-to-maintain-your-stormwater-drain.jpg" alt="<?php echo $blogname; ?>" title="<?php echo $blogname; ?>">
                                         </div>
                                     </div>
 

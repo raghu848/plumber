@@ -51,7 +51,7 @@
                                 <div class="inner-box">
                                     <div class="upper">
                                         <div class="image-box">
-                                            <img src="images/blog/how-to-find-a-reliable-qualified-plumber-in-sydney.jpg" alt="<?php echo $blogname; ? loading="lazy" decoding="async">" title="<?php echo $blogname; ?>">
+                                            <img src="images/blog/how-to-find-a-reliable-qualified-plumber-in-sydney.jpg" alt="<?php echo $blogname; ?>" title="<?php echo $blogname; ?>">
                                         </div>
                                     </div>
 

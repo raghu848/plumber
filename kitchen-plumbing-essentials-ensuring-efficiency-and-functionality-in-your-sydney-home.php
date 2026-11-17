@@ -60,7 +60,7 @@
                                 <div class="inner-box">
                                     <div class="upper">
                                         <div class="image-box">
-                                            <img src="images/blog/kitchen-plumbing-essentials-ensuring-efficiency-and-functionality-in-your-sydney-home.webp" alt="<?php echo $blogname; ? loading="lazy" decoding="async">" title="<?php echo $blogname; ?>">
+                                            <img src="images/blog/kitchen-plumbing-essentials-ensuring-efficiency-and-functionality-in-your-sydney-home.webp" alt="<?php echo $blogname; ?>" title="<?php echo $blogname; ?>">
                                         </div>
                                     </div>
 

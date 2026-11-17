@@ -55,7 +55,7 @@
                                 
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img src="images/resource/5-things-you-can-do-to-prevent-a-blocked-drain-in-sydney.jpg" alt="<?php echo $blogname; ? loading="lazy" decoding="async">" title="<?php echo $blogname; ?>">
+                                        <img src="images/resource/5-things-you-can-do-to-prevent-a-blocked-drain-in-sydney.jpg" alt="<?php echo $blogname; ?>" title="<?php echo $blogname; ?>">
                                     </div>
                                 </div>
                                 <div class="post-meta">

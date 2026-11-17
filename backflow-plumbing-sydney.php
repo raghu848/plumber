@@ -55,7 +55,7 @@
                                 
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img src="images/resource/backflow-plumbing-sydney.jpg" alt="Sydney Plumbing" title="<?php echo $blogname; ? loading="lazy" decoding="async">">
+                                        <img src="images/resource/backflow-plumbing-sydney.jpg" alt="Sydney Plumbing" title="<?php echo $blogname; ?>">
                                     </div>
                                 </div>
                                 <div class="post-meta">

@@ -60,7 +60,7 @@
                                 <div class="inner-box">
                                     <div class="upper">
                                         <div class="image-box">
-                                            <img src="images/blog/sydney-water-quality-how-it-impacts-your-plumbing-and-what-to-do-about-it.webp" alt="<?php echo $blogname; ? loading="lazy" decoding="async">" title="<?php echo $blogname; ?>">
+                                            <img src="images/blog/sydney-water-quality-how-it-impacts-your-plumbing-and-what-to-do-about-it.webp" alt="<?php echo $blogname; ?>" title="<?php echo $blogname; ?>">
                                         </div>
                                     </div>
 

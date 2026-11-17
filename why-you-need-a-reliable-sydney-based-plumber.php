@@ -55,7 +55,7 @@
                                 
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img src="images/resource/why-you-need-a-reliable-sydney-based-plumber.jpg" alt="Why you Need a Reliable Sydney Based Plumber?" title="<?php echo $blogname; ? loading="lazy" decoding="async">">
+                                        <img src="images/resource/why-you-need-a-reliable-sydney-based-plumber.jpg" alt="Why you Need a Reliable Sydney Based Plumber?" title="<?php echo $blogname; ?>">
                                     </div>
                                 </div>
                                 <div class="post-meta">

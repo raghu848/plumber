@@ -55,7 +55,7 @@
                                 
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img src="images/resource/good-plumbers-in-sydney-dont-always-come-easy.jpg" alt="<?php echo $blogname; ? loading="lazy" decoding="async">" title="<?php echo $blogname; ?>">
+                                        <img src="images/resource/good-plumbers-in-sydney-dont-always-come-easy.jpg" alt="<?php echo $blogname; ?>" title="<?php echo $blogname; ?>">
                                     </div>
                                 </div>
                                 <div class="post-meta">

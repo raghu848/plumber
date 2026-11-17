@@ -55,7 +55,7 @@
                                 
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img src="images/resource/reasons-why-you-need-expert-help-from-a-plumber-in-sydney.jpg" alt="Reasons Why You Need Expert Help from a Plumber in Sydney" title="<?php echo $blogname; ? loading="lazy" decoding="async">">
+                                        <img src="images/resource/reasons-why-you-need-expert-help-from-a-plumber-in-sydney.jpg" alt="Reasons Why You Need Expert Help from a Plumber in Sydney" title="<?php echo $blogname; ?>">
                                     </div>
                                 </div>
                                 <div class="post-meta">

@@ -73,7 +73,7 @@ src="https://www.facebook.com/tr?id=1492995221335210&ev=PageView&noscript=1"
                                 
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img src="images/resource/blog-15.jpg" alt="sydney plumber" title="<?php echo $blogname; ? loading="lazy" decoding="async">">
+                                        <img src="images/resource/blog-15.jpg" alt="sydney plumber" title="<?php echo $blogname; ?>">
                                     </div>
                                 </div>
                                 <div class="post-meta">
