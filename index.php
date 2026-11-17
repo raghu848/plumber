@@ -24,7 +24,6 @@
     top: 0 !important;
     transform: unset !important;
 }
-.preloader{display:none !important;visibility:hidden !important;opacity:0 !important;pointer-events:none !important;}
 </style>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -65,7 +64,7 @@ function gtag_report_conversion(url) {
         <link rel="dns-prefetch" href="https://connect.facebook.net" />
         
         <!-- Preload Critical LCP Assets -->
-        <link rel="preload" as="image" href="img/emergency-plumber-sydney.webp" fetchpriority="high" type="image/webp" />
+        <link rel="preload" as="image" href="img/emergency-plumber-sydney.jpg" fetchpriority="high" />
         <link rel="preload" as="image" href="img/logo.webp" fetchpriority="high" />
 
 
@@ -105,38 +104,20 @@ function gtag_report_conversion(url) {
         <meta property="og:image" content="https://www.hydrolinkplumbing.com.au/images/resource/blog-2.webp" />
         <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" />
         <link href="images/favicon.png" rel="icon" type="image/x-icon" />
-        <link rel="preload" href="assets/css/main.min.css" as="style" />
         <link href="assets/css/main.min.css" rel="stylesheet" />
-                 <script>
-        function loadRecaptcha() {
-            if (window._recaptchaLoaded) return;
-            window._recaptchaLoaded = true;
-            var s = document.createElement('script');
-            s.src = 'https://www.google.com/recaptcha/api.js';
-            s.async = true; s.defer = true;
-            document.head.appendChild(s);
-        }
-        ['scroll', 'touchstart', 'focusin', 'click'].forEach(function(e) {
-            window.addEventListener(e, loadRecaptcha, { once: true, passive: true });
-        });
-        setTimeout(loadRecaptcha, 4000);
-    </script> 
-        <!-- Meta Pixel Code (Deferred) -->
+                 <script src="https://www.google.com/recaptcha/api.js" async defer> </script> 
+        <!-- Meta Pixel Code -->
 <script>
-window.addEventListener('load', function() {
-  setTimeout(function() {
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-    n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];
-    s.parentNode.insertBefore(t,s)}(window, document,'script',
-    'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '1492995221335210');
-    fbq('track', 'PageView');
-  }, 1500);
-});
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1492995221335210');
+fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=1492995221335210&ev=PageView&noscript=1"
@@ -375,7 +356,7 @@ src="https://www.facebook.com/tr?id=1492995221335210&ev=PageView&noscript=1"
            animation: 1.8s ease 0s infinite normal none running blink;
         }
         .banner-section{z-index: 1;}
-        .banner-carousel .slide-item .image-layer{background-image: url(img/emergency-plumber-sydney.webp);}
+        .banner-carousel .slide-item .image-layer{background-image: url(img/emergency-plumber-sydney.jpg);}
 
         .hyd-btn {
             color: #fff !important;
@@ -496,7 +477,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
     </head>
     
-    <body class="page-loaded">
+    <body>
         <div itemscope="" itemtype="http://schema.org/Person" class="hy-schema">
             <span itemprop="name">Hydrolink plumbing</span> <span itemprop="company">Hydrolink plumbing</span> <span itemprop="tel">0433 629 517</span>
         </div>
@@ -507,22 +488,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <!--  ClickCease.com tracking-->
-      <script type="text/javascript">
-      window.addEventListener('load', function() {
-        setTimeout(function() {
-          var s = document.createElement('script');
-          s.async = true; s.type = 'text/javascript';
-          s.src = 'https://www.clickcease.com/monitor/stat.js';
-          document.head.appendChild(s);
-        }, 2500);
-      });
+      <script type='text/javascript'>var script = document.createElement('script');
+      script.async = true; script.type = 'text/javascript';
+      var target = 'https://www.clickcease.com/monitor/stat.js';
+      script.src = target;var elem = document.head;elem.appendChild(script);
       </script>
       <noscript>
       <a href='https://www.clickcease.com' rel='nofollow'><img src='https://monitor.clickcease.com' alt='ClickCease'/></a>
       </noscript>
       <!--  ClickCease.com tracking-->
     <div class="page-wrapper">
-        
+        <div class="preloader">
+            <div class="icon"></div>
+        </div>
 
             <header class="main-header">
                 <div class="header-top">
@@ -5058,22 +5036,16 @@ With over a decade of experience, we understand the challenges involved in <stro
 		
 		
 		
-<!-- Smartsupp Live Chat (Optimized on interaction) -->
+<!-- Smartsupp Live Chat script -->
 <script type="text/javascript">
-function initSmartsupp() {
-  if (window._smartsuppLoaded) return;
-  window._smartsuppLoaded = true;
-  window._smartsupp = window._smartsupp || {};
-  window._smartsupp.key = '3aa38f91eb2772f0dcfb29ade03ee65a24927a50';
-  var s = document.createElement('script');
-  s.type = 'text/javascript'; s.charset = 'utf-8'; s.async = true;
-  s.src = 'https://www.smartsuppchat.com/loader.js';
-  document.head.appendChild(s);
-}
-['scroll', 'mousemove', 'touchstart', 'click'].forEach(function(e) {
-  window.addEventListener(e, initSmartsupp, { once: true, passive: true });
-});
-setTimeout(initSmartsupp, 4000);
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '3aa38f91eb2772f0dcfb29ade03ee65a24927a50';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
 </script>
 <noscript> Powered by <a href="https://www.smartsupp.com" target="_blank">Smartsupp</a></noscript>
 
