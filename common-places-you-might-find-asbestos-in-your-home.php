@@ -33,7 +33,7 @@
                 <div class="ttm-service-single-content-area">
                     <div class="ttm-service-description">
                         <div class="blog-img">
-                            <img src="pictures/blog/common-places-you-might-find-asbestos-in-your-home.jpg" alt="<?php echo $blogname; ?>">
+                            <img src="pictures/blog/common-places-you-might-find-asbestos-in-your-home.jpg" alt="<?php echo $blogname; ? loading="lazy" decoding="async">">
                         </div>
                         <h2><?php echo $blogname; ?></h2>
                         <ul class="blog-ul">

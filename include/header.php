@@ -101,7 +101,7 @@
       <meta property="og:image" content="https://www.hydrolinkplumbing.com.au/img/ser/about-hydrolink-plumber-sydney.webp"/>
       <meta property="og:image" content="https://www.hydrolinkplumbing.com.au/images/resource/blog-3.webp"/>
       <meta property="og:image" content="https://www.hydrolinkplumbing.com.au/images/resource/blog-2.webp"/>
-      <script src="https://www.googleoptimize.com/optimize.js?id=OPT-MMKHTKJ"></script> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WK2JTBQ'); </script> <script async src="https://www.googletagmanager.com/gtag/js?id=G-2L7JXT0V8T"></script> <script>window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date()); gtag('config', 'G-2L7JXT0V8T'); </script> 
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WK2JTBQ'); </script> <script async src="https://www.googletagmanager.com/gtag/js?id=G-2L7JXT0V8T"></script> <script>window.dataLayer=window.dataLayer || []; function gtag(){dataLayer.push(arguments);}gtag('js', new Date()); gtag('config', 'G-2L7JXT0V8T'); </script> 
       <link href="css/bootstrap.css" rel="stylesheet">
       <link href="css/style.css" rel="stylesheet">
       <link href="css/responsive.css" rel="stylesheet">
@@ -148,6 +148,9 @@
          <div class="icon"></div>
       </div>
       <header class="main-header">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+
          <div class="header-top">
             <div class="mobile-pulse">
                <span class="mx-md-3 mr-2 ml-1 bg-success pulse rounded-circle d-inline-block mbt-op"></span> 
@@ -188,7 +191,7 @@
                   <div class="logo-box">
                      <div class="logo">
                         <a href="index.html" title="Hydrolink Plumbing">
-                           <img src="img/logo.webp" title="Hydrolink Plumbing sydney" alt="plumbers in sydney">
+                           <img src="img/logo.webp" width="175" height="90" title="Hydrolink Plumbing sydney" alt="plumbers in sydney" fetchpriority="high" decoding="async" />
                         </a>
                      </div>
                   </div>
@@ -205,13 +208,13 @@
                      <div class="fb-review">
                         <a href="https://www.serviceseeking.com.au/profile/226430-sam-hydrolink-plumbing" title="Service Seeking Sydney" target="_blank" rel="noopener">
                         <ul class="reviews-ul">
-                           <li><img src="img/star.png" alt="Plumbers Sydney"></li>
-                           <li><img src="img/star.png" alt="Plumbers Sydney"></li>
-                           <li><img src="img/star.png" alt="Plumbers Sydney"></li>
-                           <li><img src="img/star.png" alt="Plumbers Sydney"></li>
-                           <li><img src="img/star.png" alt="Plumbers Sydney"></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
                         </ul>
-                        <img class="review-im" src="img/service-seeking.png" alt="service seeking sydney">
+                        <img class="review-im" src="img/service-seeking.png" width="65" height="65" alt="service seeking sydney" decoding="async" / loading="lazy">
                         <p>5 Star Reviews</p>
                         </a>
                      </div>
@@ -226,13 +229,13 @@
                      <div class="fb-review">
                         <a href="https://hipages.com.au/connect/hydrolinkplumbing" title="hi Pages Sydney" target="_blank" rel="noopener">
                         <ul class="reviews-ul">
-                           <li><img src="img/star.png" alt="sydney plumber"></li>
-                           <li><img src="img/star.png" alt="sydney plumber"></li>
-                           <li><img src="img/star.png" alt="sydney plumber"></li>
-                           <li><img src="img/star.png" alt="sydney plumber"></li>
-                           <li><img src="img/star.png" alt="sydney plumber"></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumber" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumber" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumber" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumber" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumber" decoding="async" /></li>
                         </ul>
-                        <img class="review-im" src="img/hi-pages.png" alt="hi pages sydney">
+                        <img class="review-im" src="img/hi-pages.png" width="65" height="65" alt="hi pages sydney" decoding="async" / loading="lazy">
                         <p>5 Star Reviews</p></a>
                      </div>
                   </div>
@@ -244,13 +247,13 @@
                      <div class="fb-review">
                         <a href="https://www.google.com/maps/place/Hydrolink+Plumbing+%26+Gas+Heater+Services+Sydney/@-33.8176381,150.9732376,15z/data=!4m5!3m4!1s0x0:0xa01aba37661942fe!8m2!3d-33.8176381!4d150.9732376" title="Hydrolink Plumbing Sydney" target="_blank" rel="noopener">
                         <ul class="reviews-ul">
-                           <li><img src="img/star.png" alt="sydney plumbers"></li>
-                           <li><img src="img/star.png" alt="sydney plumbers"></li>
-                           <li><img src="img/star.png" alt="sydney plumbers"></li>
-                           <li><img src="img/star.png" alt="sydney plumbers"></li>
-                           <li><img src="img/star.png" alt="sydney plumbers"></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumbers" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumbers" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumbers" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumbers" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="sydney plumbers" decoding="async" /></li>
                         </ul>
-                        <img class="review-im" src="img/google-sydney.png" alt="plumber sydney">
+                        <img class="review-im" src="img/google-sydney.png" width="64" height="64" alt="plumber sydney" decoding="async" / loading="lazy">
                         <p>5 Star Reviews</p></a>
                      </div>
                   </div>
@@ -262,13 +265,13 @@
                      <div class="fb-review">
                         <a href="https://www.facebook.com/hydrolinkplumbing/" title="Hydrolink Plumbing Sydney" target="_blank" rel="noopener">
                         <ul class="reviews-ul">
-                           <li><img src="img/star.png" alt="five star sydney plumbers"></li>
-                           <li><img src="img/star.png" alt="five star sydney plumbers"></li>
-                           <li><img src="img/star.png" alt="five star sydney plumbers"></li>
-                           <li><img src="img/star.png" alt="five star sydney plumbers"></li>
-                           <li><img src="img/star.png" alt="five star sydney plumbers"></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="five star sydney plumbers" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="five star sydney plumbers" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="five star sydney plumbers" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="five star sydney plumbers" decoding="async" /></li>
+                           <li><img src="img/star.png" width="24" height="24" alt="five star sydney plumbers" decoding="async" /></li>
                         </ul>
-                        <img class="review-im" src="img/facebook.png" alt="plumbing sydney">
+                        <img class="review-im" src="img/facebook.png" width="65" height="65" alt="plumbing sydney" decoding="async" / loading="lazy">
                         <p>5 Star Reviews</p></a>
                      </div>
                   </div>
@@ -278,7 +281,7 @@
 
                      <div class="info sky-4" style="padding-top: 6px;padding-left: 20px;">
                         <div class="info-icon"> 
-                           <img src="img/map-location.png" alt="South Wentworthville Sydney plumber" title="sydney plumber"> 
+                           <img src="img/map-location.png" alt="South Wentworthville Sydney plumber" title="sydney plumber" loading="lazy" decoding="async"> 
                         </div>
                         <div class="phone">
                            <a href="contact.html">South Wentworthville </a> 
@@ -456,7 +459,7 @@
          </div>
          <div class="sticky-header">
             <div class="auto-container clearfix">
-               <div class="logo pull-left"> <a href="index.html" title="Home"> <img src="img/logo.webp" alt="plumber sydney" title="plumber sydney"> </a> </div>
+               <div class="logo pull-left"> <a href="index.html" title="Home"> <img src="img/logo.webp" width="175" height="90" alt="plumber sydney" title="plumber sydney" fetchpriority="high" decoding="async" /> </a> </div>
                <div class="pull-right clearfix">
                   <nav class="main-menu navbar-expand-md navbar-light"> </nav>
                   <div class="contact-link"> <a href="appointment.html" class="theme-btn btn-style-three" title=" Get A Quote"><span class="btn-title"> Get A Quote</span></a> </div>
@@ -467,7 +470,7 @@
             <div class="menu-backdrop"></div>
             <div class="close-btn"><span class="icon flaticon-letter-x"></span> </div>
             <nav class="menu-box">
-               <div class="nav-logo"> <a href="index.html" title="plumbers sydney logo"> <img src="img/logo.webp" alt="plumbers sydney" title="Plumbers Sydney Hydrolink Plumbing"> </a> </div>
+               <div class="nav-logo"> <a href="index.html" title="plumbers sydney logo"> <img src="img/logo.webp" width="175" height="90" alt="plumbers sydney" title="Plumbers Sydney Hydrolink Plumbing" fetchpriority="high" decoding="async" /> </a> </div>
                <div class="menu-outer"></div>
                <div class="contact-link"> <a href="appointment.html" class="theme-btn btn-style-three" title=" Get A Quote"><span class="btn-title"> Get A Quote</span></a> </div>
                <div class="social-links">

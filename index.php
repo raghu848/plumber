@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
+    <head>
+        <style>
 
 .video-container {
   text-align: center; /* centers the video horizontally */
@@ -24,14 +25,15 @@
     transform: unset !important;
 }
 </style>
-    <head>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
         <meta name="google-site-verification" content="o6aGoB2GvOO5vZl526YyN6YrqK82QJm2F-Bncbv1KfA" />
         <script>
-  gtag('config', 'AW-18159197420/WNZCCKTul64cEOy5_dJD', {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('config', 'AW-18159197420/WNZCCKTul64cEOy5_dJD', {
     'phone_conversion_number': '0433 629 517'
   });
 </script>
@@ -54,7 +56,19 @@ function gtag_report_conversion(url) {
         <title>Welcome to Hydrolink Plumbing Emergency Plumber Sydney</title>
        <link rel="canonical" href="https://hydrolinkplumbing.com.au/">
 
-        <meta name="description" content="We are a local Sydney plumber offering emergency plumbing services. We offer residential and commercial plumbing services in Sydney at an affordable price.>
+        <!-- Resource Hints for SEO & Performance -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+        <link rel="dns-prefetch" href="https://connect.facebook.net" />
+        
+        <!-- Preload Critical LCP Assets -->
+        <link rel="preload" as="image" href="img/emergency-plumber-sydney.jpg" fetchpriority="high" />
+        <link rel="preload" as="image" href="img/logo.webp" fetchpriority="high" />
+
+
+        <meta name="description" content="We are a local Sydney plumber offering emergency plumbing services. We offer residential and commercial plumbing services in Sydney at an affordable price." />
         
         <meta name="keywords" content="Sydney plumbers, Emergency plumber Sydney, Bathroom Renovations Sydney, Plumbing Contractors Sydney, Sydney Plumber, Commercial Plumbing Sydney, Residential Plumber Sydney, Kitchen Renovations Sydney, Plumber Sydney, Air Conditioning Installation Sydney, Air Conditioning Installation in Sydney, Find a plumber in Sydney, Sydney Plumbers for After-hours Emergencies, Blocked drains Sydney, Leaking pipes Sydney, Water heater repairs Sydney, Gas fitting Sydney, Sewer repair Sydney, Plumbing installation Sydney, Plumbers in Sydney, Plumbers near me, 24/7 plumbers Sydney, Accredited plumbers Sydney, Licensed plumbers Sydney, Rated plumbers Sydney, Cheap plumbers Sydney, Reliable plumbers Sydney, Experienced plumbers Sydney Plumbing repair, emergency Sydney plumbing, blocked drains Sydney, leaking pipes Sydney, water heater repairs Sydney, 24/7 Sydney plumbing services, residential plumbing, emergency plumbing, commercial plumbing, plumber near me, plumber, plumber in sydney, emergency plumber, plumbing service sydney, domestic plumber, commercial plumber, local plumbers sydney, Plumbing in Sydney, Sydney Plumbing, Plumbing services Sydney, Plumbing services in Sydney, Sydney Plumbing services, Plumbing service Sydney, Plumbing service in Sydney, Sydney Plumbing service, plumbers Sydney, plumbers in Sydney, Emergency plumbers Sydney, Emergency plumbers in Sydney, Sydney emergency plumbers, Emergency plumber in Sydney, Sydney emergency plumber, Professional Sydney plumbers, Professional Sydney plumber, Your local Sydney plumbers."/>
         <meta name="copyright" content="Hydrolink Plumbing Sydney" />
@@ -109,9 +123,13 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=1492995221335210&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Meta Pixel Code -->
-<style>
-    @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&amp;family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&amp;display=swap");
-    @import url("https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap");
+
+        <!-- Non-blocking Google Fonts with font-display: swap -->
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Saira+Stencil+One&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+        <noscript>
+            <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Saira+Stencil+One&display=swap" rel="stylesheet" />
+        </noscript>
+        <style>
         .hydrolink-faq {
             overflow: auto;
             height: 510px;
@@ -535,7 +553,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="logo-box">
                                 <div class="logo">
                                     <a href="index.html" title="Hydrolink Plumbing">
-                                        <img data-src="img/logo.webp" width="175" height="90" title="Hydrolink Plumbing" class="lazyload" alt="Sydney Plumbers" loading="lazy" />
+                                        <img src="img/logo.webp" width="175" height="90" title="Hydrolink Plumbing" alt="Sydney Plumbers" fetchpriority="high" decoding="async" />
                                     </a>
                                 </div>
                             </div>
@@ -546,13 +564,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="fb-review">
                                             <a href="https://www.serviceseeking.com.au/profile/226430-sam-hydrolink-plumbing" title="Service Seeking Sydney" target="_blank" rel="noopener">
                                                 <ul class="reviews-ul">
-                                                    <li><img src="img/star.png" alt="Plumbers Sydney" /></li>
-                                                    <li><img src="img/star.png" alt="Plumbers Sydney" /></li>
-                                                    <li><img src="img/star.png" alt="Plumbers Sydney" /></li>
-                                                    <li><img src="img/star.png" alt="Plumbers Sydney" /></li>
-                                                    <li><img src="img/star.png" alt="Plumbers Sydney" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Plumbers Sydney" decoding="async" /></li>
                                                 </ul>
-                                                <img class="review-im" src="img/service-seeking.webp" alt="service seeking Sydney" />
+                                                <img class="review-im" src="img/service-seeking.webp" width="65" height="65" alt="service seeking Sydney" decoding="async" />
                                                 <p>5 Star Reviews</p>
                                             </a>
                                         </div>
@@ -564,13 +582,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="fb-review">
                                             <a href="https://hipages.com.au/connect/hydrolinkplumbing" title="hi Pages Sydney" target="_blank" rel="noopener">
                                                 <ul class="reviews-ul">
-                                                    <li><img src="img/star.png" alt="Sydney plumber" /></li>
-                                                    <li><img src="img/star.png" alt="Sydney plumber" /></li>
-                                                    <li><img src="img/star.png" alt="Sydney plumber" /></li>
-                                                    <li><img src="img/star.png" alt="Sydney plumber" /></li>
-                                                    <li><img src="img/star.png" alt="Sydney plumber" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumber" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumber" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumber" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumber" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumber" decoding="async" /></li>
                                                 </ul>
-                                                <img class="review-im" src="img/hi-pages.webp" alt="hi pages Sydney" />
+                                                <img class="review-im" src="img/hi-pages.webp" width="65" height="65" alt="hi pages Sydney" decoding="async" />
                                                 <p>5 Star Reviews</p>
                                             </a>
                                         </div>
@@ -587,13 +605,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 rel="noopener"
                                             >
                                                 <ul class="reviews-ul">
-                                                    <li><img src="img/star.png" alt="Sydney plumbers" /></li>
-                                                    <li><img src="img/star.png" alt="Sydney plumbers" /></li>
-                                                    <li><img src="img/star.png" alt="Sydney plumbers" /></li>
-                                                    <li><img src="img/star.png" alt="Sydney plumbers" /></li>
-                                                    <li><img src="img/star.png" alt="Sydney plumbers" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumbers" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumbers" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumbers" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumbers" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="Sydney plumbers" decoding="async" /></li>
                                                 </ul>
-                                                <img class="review-im" src="img/google-sydney.webp" alt="plumber sydney" />
+                                                <img class="review-im" src="img/google-sydney.webp" width="64" height="64" alt="plumber sydney" decoding="async" />
                                                 <p>5 Star Reviews</p>
                                             </a>
                                         </div>
@@ -605,13 +623,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="fb-review">
                                             <a href="https://www.facebook.com/hydrolinkplumbing/" title="Hydrolink Plumbing Sydney" target="_blank" rel="noopener">
                                                 <ul class="reviews-ul">
-                                                    <li><img src="img/star.png" alt="five star Sydney plumbers" /></li>
-                                                    <li><img src="img/star.png" alt="five star Sydney plumbers" /></li>
-                                                    <li><img src="img/star.png" alt="five star Sydney plumbers" /></li>
-                                                    <li><img src="img/star.png" alt="five star Sydney plumbers" /></li>
-                                                    <li><img src="img/star.png" alt="five star Sydney plumbers" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="five star Sydney plumbers" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="five star Sydney plumbers" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="five star Sydney plumbers" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="five star Sydney plumbers" decoding="async" /></li>
+                                                    <li><img src="img/star.png" width="24" height="24" alt="five star Sydney plumbers" decoding="async" /></li>
                                                 </ul>
-                                                <img class="review-im" src="img/facebook.png" alt="plumbing Sydney" />
+                                                <img class="review-im" src="img/facebook.png" width="65" height="65" alt="plumbing Sydney" decoding="async" />
                                                 <p>5 Star Reviews</p>
                                             </a>
                                         </div>
@@ -849,10 +867,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </div>
 
                                             <ul class="hydro-ul-banner">
-                                                <li><img alt="right tick" class="lazyload" width="32" height="32" data-src="images/tick.png" loading="lazy" />Same Day Service</li>
-                                                <li><img alt="right tick" class="lazyload" width="32" height="32" data-src="images/tick.png" loading="lazy" />No Call Out Fees</li>
-                                                <li><img alt="right tick" class="lazyload" width="32" height="32" data-src="images/tick.png" loading="lazy" />Professional Onsite Consultation Available</li>
-                                                <li><img alt="right tick" class="lazyload" width="32" height="32" data-src="images/tick.png" loading="lazy" />Transparent Pricing</li>
+                                                <li><img alt="right tick" width="32" height="32" src="images/tick.png" decoding="async" />Same Day Service</li>
+                                                <li><img alt="right tick" width="32" height="32" src="images/tick.png" decoding="async" />No Call Out Fees</li>
+                                                <li><img alt="right tick" width="32" height="32" src="images/tick.png" decoding="async" />Professional Onsite Consultation Available</li>
+                                                <li><img alt="right tick" width="32" height="32" src="images/tick.png" decoding="async" />Transparent Pricing</li>
                                             </ul>
 
                                             <div class="link-box clearfix">
@@ -985,7 +1003,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="inner mt40">
                             <div class="sec-title">
                                 <div class="title-icon">
-                                    <span class="icon"><img alt="plumbing in Sydney" class="lazyload" data-src="images/icons/leaf-two.png" loading="lazy" title="Hydrolink plumbing"/> </span>
+                                    <span class="icon"><img src="images/icons/leaf-two.png" data-src="images/icons/leaf-two.png" alt="plumbing in Sydney" class="lazyload"   loading="lazy" title="Hydrolink plumbing"/ decoding="async"> </span>
                                 </div>
 
                                 <div class="subtitle">About Hydrolink Plumbing</div>
@@ -1026,15 +1044,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="inner">
                             <div class="image-box clearfix">
                                 <figure class="image">
-                                    <img
-                                        alt="Sydney Plumber"
+                                    <img src="img/ser/8c17bf1d-6ec6-4641-99f6-a8dca6747059.jpeg" data-src="img/ser/8c17bf1d-6ec6-4641-99f6-a8dca6747059.jpeg" alt="Sydney Plumber"
                                         class="lazyload"
                                         content="Hydrolink plumbing Sydney"
-                                        data-src="img/ser/8c17bf1d-6ec6-4641-99f6-a8dca6747059.jpeg"
+                                         
                                         description="Hydrolink plumbing specialises in every aspect of plumbing and gas services Sydney"
                                         loading="lazy"
                                         title="Sydney Plumber"
-                                    />
+                                    / decoding="async">
                                 </figure>
                             </div>
                         </div>
@@ -1045,7 +1062,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <section class="video-showcase-section">
     <div class="auto-container">
 <div class="title-icon">
-                                    <span class="icon"><img alt="plumbing in Sydney" class="lazyload" data-src="images/icons/leaf-two.png" loading="lazy" title="Hydrolink plumbing"/> </span>
+                                    <span class="icon"><img src="images/icons/leaf-two.png" data-src="images/icons/leaf-two.png" alt="plumbing in Sydney" class="lazyload"   loading="lazy" title="Hydrolink plumbing"/ decoding="async"> </span>
                                 </div>
     <div class="sec-title centered">
         <div class="subtitle">Hydrolink Plumbing In Action</div>
@@ -2372,7 +2389,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <h4 class="hy_title">Sydney's #1 choice when it comes to your Plumbing or Gasfitting issues</h4>
                                 </div>
                                 <a href="https://thebusinessawards.com.au/62209/hydrolink-plumbing-services" target="_blank">
-                                    <img alt="Local Business Awards Sydney" class="cap-1 lazyload" data-src="img/business-award.png" width="824" height="420" loading="lazy" title="Local Business Awards Sydney" />
+                                    <img src="img/business-award.png" data-src="img/business-award.png" alt="Local Business Awards Sydney" class="cap-1 lazyload"   width="824" height="420" loading="lazy" title="Local Business Awards Sydney" / decoding="async">
                                 </a>
 
                             </div>
@@ -2382,7 +2399,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="hy_column hy-col-4">
                             <div class="hy-col-container">
                                 <div class="hy_single_image">
-                                    <img data-src="images/van-image.webp" width="674" height="603" alt="Plumbers Sydney" class="lazyload" title="Plumbers Sydney" loading="lazy">
+                                    <img src="images/van-image.webp" data-src="images/van-image.webp" width="674" height="603" alt="Plumbers Sydney" class="lazyload" title="Plumbers Sydney" loading="lazy" decoding="async">
                                 </div>
                             </div>
                         </div>
@@ -2437,7 +2454,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="auto-container">
                         <div class="sec-title">
                             <div class="title-icon">
-                                <span class="icon"><img alt="plumber in Sydney" class="lazyload" data-src="images/icons/leaf-two.png" loading="lazy" title="plumber in sydney" /> </span>
+                                <span class="icon"><img src="images/icons/leaf-two.png" data-src="images/icons/leaf-two.png" alt="plumber in Sydney" class="lazyload"   loading="lazy" title="plumber in sydney" / decoding="async"> </span>
                             </div>
 
                             <div class="subtitle">What we Do</div>
@@ -2450,32 +2467,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="buttons">
                             <ul class="tab-buttons row clearfix">
                                 <li class="tab-btn active-btn col" data-tab="#tab-1">
-                                    <div class="icon-box"><img alt="Kitchen Renovations Sydney" class="lazyload" data-src="img/cooking.png" loading="lazy" title="Kitchen Renovations Sydney" /></div>
+                                    <div class="icon-box"><img src="img/cooking.png" data-src="img/cooking.png" alt="Kitchen Renovations Sydney" class="lazyload"   loading="lazy" title="Kitchen Renovations Sydney" / decoding="async"></div>
 
                                     <div class="btn-title">Kitchen Renovations</div>
                                 </li>
                                 <li class="tab-btn col" data-tab="#tab-2">
-                                    <div class="icon-box"><img alt="Bathroom Renovations Sydney" class="lazyload" data-src="img/bathtub.png" loading="lazy" title="Bathroom Renovations Sydney" /></div>
+                                    <div class="icon-box"><img src="img/bathtub.png" data-src="img/bathtub.png" alt="Bathroom Renovations Sydney" class="lazyload"   loading="lazy" title="Bathroom Renovations Sydney" / decoding="async"></div>
 
                                     <div class="btn-title">Bathroom Renovations</div>
                                 </li>
                                 <li class="tab-btn col" data-tab="#tab-3">
-                                    <div class="icon-box"><img alt="Hot Water Systems Installation Sydney" class="lazyload" data-src="img/water-heater.png" loading="lazy" title="Hot Water Systems Installation Sydney" /></div>
+                                    <div class="icon-box"><img src="img/water-heater.png" data-src="img/water-heater.png" alt="Hot Water Systems Installation Sydney" class="lazyload"   loading="lazy" title="Hot Water Systems Installation Sydney" / decoding="async"></div>
 
                                     <div class="btn-title">Hot Water Systems</div>
                                 </li>
                                 <li class="tab-btn col" data-tab="#tab-4">
-                                    <div class="icon-box"><img alt="Toilet Repairs Sydney" class="lazyload" data-src="img/toilet.png" loading="lazy" title="Toilet Repairs Sydney" /></div>
+                                    <div class="icon-box"><img src="img/toilet.png" data-src="img/toilet.png" alt="Toilet Repairs Sydney" class="lazyload"   loading="lazy" title="Toilet Repairs Sydney" / decoding="async"></div>
 
                                     <div class="btn-title">Toilet Repairs</div>
                                 </li>
                                 <li class="tab-btn col" data-tab="#tab-5">
-                                    <div class="icon-box"><img alt="Rain Water Tanks Installation Sydney" class="lazyload" data-src="img/tank.png" loading="lazy" title="Rain Water Tanks Installation Sydney" /></div>
+                                    <div class="icon-box"><img src="img/tank.png" data-src="img/tank.png" alt="Rain Water Tanks Installation Sydney" class="lazyload"   loading="lazy" title="Rain Water Tanks Installation Sydney" / decoding="async"></div>
 
                                     <div class="btn-title">Rain Water Tanks</div>
                                 </li>
                                 <li class="tab-btn col" data-tab="#tab-6">
-                                    <div class="icon-box"><img alt="Drain Leakage Fixing Sydney" class="lazyload" data-src="img/waste-water.png" loading="lazy" title="Drain Leakage Fixing Sydney" /></div>
+                                    <div class="icon-box"><img src="img/waste-water.png" data-src="img/waste-water.png" alt="Drain Leakage Fixing Sydney" class="lazyload"   loading="lazy" title="Drain Leakage Fixing Sydney" / decoding="async"></div>
 
                                     <div class="btn-title">Fix Drain Leaks</div>
                                 </li>
@@ -2495,7 +2512,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="inner clearfix">
                                     <div class="content">
                                         <div class="inner-box">
-                                            <div class="icon-box"><img alt="plumbers in Sydney" class="lazyload service-icon" data-src="img/leaf-two.png" loading="lazy" /></div>
+                                            <div class="icon-box"><img src="img/leaf-two.png" data-src="img/leaf-two.png" alt="plumbers in Sydney" class="lazyload service-icon"   loading="lazy" / decoding="async"></div>
 
                                             <h5>
                                                 Let's<br />
@@ -2516,7 +2533,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="inner">
                                     <div class="content">
                                         <div class="s-title">
-                                            <div class="icon"><img alt="Kitchen Renovations Sydney" class="lazyload" data-src="img/cooking.png" loading="lazy" title="Kitchen Renovations Sydney" /></div>
+                                            <div class="icon"><img src="img/cooking.png" data-src="img/cooking.png" alt="Kitchen Renovations Sydney" class="lazyload"   loading="lazy" title="Kitchen Renovations Sydney" / decoding="async"></div>
 
                                             <div class="subtitle">know About</div>
 
@@ -2621,7 +2638,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner clearfix">
                                     <div class="content">
                                         <div class="inner-box">
-                                            <div class="icon-box"><img alt="plumbers in Sydney" class="lazyload service-icon" data-src="img/leaf-two.png" loading="lazy" /></div>
+                                            <div class="icon-box"><img src="img/leaf-two.png" data-src="img/leaf-two.png" alt="plumbers in Sydney" class="lazyload service-icon"   loading="lazy" / decoding="async"></div>
 
                                             <h5>
                                                 Let's<br />
@@ -2642,7 +2659,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner">
                                     <div class="content">
                                         <div class="s-title">
-                                            <div class="icon"><img alt="Bathroom Renovations Sydney" class="lazyload" data-src="img/bathtub.png" loading="lazy" title="Bathroom Renovations Sydney" /></div>
+                                            <div class="icon"><img src="img/bathtub.png" data-src="img/bathtub.png" alt="Bathroom Renovations Sydney" class="lazyload"   loading="lazy" title="Bathroom Renovations Sydney" / decoding="async"></div>
 
                                             <div class="subtitle">know About</div>
 
@@ -2745,7 +2762,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner clearfix">
                                     <div class="content">
                                         <div class="inner-box">
-                                            <div class="icon-box"><img alt="plumbers in Sydney" class="lazyload service-icon" data-src="img/leaf-two.png" loading="lazy" /></div>
+                                            <div class="icon-box"><img src="img/leaf-two.png" data-src="img/leaf-two.png" alt="plumbers in Sydney" class="lazyload service-icon"   loading="lazy" / decoding="async"></div>
 
                                             <h5>
                                                 Let's<br />
@@ -2766,7 +2783,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner">
                                     <div class="content">
                                         <div class="s-title">
-                                            <div class="icon"><img alt="Hot Water Systems Installation Sydney" class="lazyload" data-src="img/water-heater.png" loading="lazy" title="Hot Water Systems Installation Sydney" /></div>
+                                            <div class="icon"><img src="img/water-heater.png" data-src="img/water-heater.png" alt="Hot Water Systems Installation Sydney" class="lazyload"   loading="lazy" title="Hot Water Systems Installation Sydney" / decoding="async"></div>
 
                                             <div class="subtitle">know About</div>
 
@@ -2865,7 +2882,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner clearfix">
                                     <div class="content">
                                         <div class="inner-box">
-                                            <div class="icon-box"><img alt="affordable plumber Sydney" class="lazyload service-icon" data-src="img/leaf-two.png" loading="lazy" /></div>
+                                            <div class="icon-box"><img src="img/leaf-two.png" data-src="img/leaf-two.png" alt="affordable plumber Sydney" class="lazyload service-icon"   loading="lazy" / decoding="async"></div>
 
                                             <h5>
                                                 Let's<br />
@@ -2886,7 +2903,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner">
                                     <div class="content">
                                         <div class="s-title">
-                                            <div class="icon"><img alt="Toilet Repairs Sydney" class="lazyload" data-src="img/toilet.png" loading="lazy" title="Toilet Repairs Sydney" /></div>
+                                            <div class="icon"><img src="img/toilet.png" data-src="img/toilet.png" alt="Toilet Repairs Sydney" class="lazyload"   loading="lazy" title="Toilet Repairs Sydney" / decoding="async"></div>
 
                                             <div class="subtitle">know About</div>
 
@@ -2989,7 +3006,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner clearfix">
                                     <div class="content">
                                         <div class="inner-box">
-                                            <div class="icon-box"><img alt="affordable plumber Sydney" class="lazyload service-icon" data-src="img/leaf-two.png" loading="lazy" /></div>
+                                            <div class="icon-box"><img src="img/leaf-two.png" data-src="img/leaf-two.png" alt="affordable plumber Sydney" class="lazyload service-icon"   loading="lazy" / decoding="async"></div>
 
                                             <h5>
                                                 Let's<br />
@@ -3010,7 +3027,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner">
                                     <div class="content">
                                         <div class="s-title">
-                                            <div class="icon"><img alt="Rain Water Tanks Installation Sydney" class="lazyload" data-src="img/tank.png" loading="lazy" title="Rain Water Tanks Installation Sydney" /></div>
+                                            <div class="icon"><img src="img/tank.png" data-src="img/tank.png" alt="Rain Water Tanks Installation Sydney" class="lazyload"   loading="lazy" title="Rain Water Tanks Installation Sydney" / decoding="async"></div>
 
                                             <div class="subtitle">know About</div>
 
@@ -3113,7 +3130,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner clearfix">
                                     <div class="content">
                                         <div class="inner-box">
-                                            <div class="icon-box"><img alt="plumbers in Sydney" class="lazyload service-icon" data-src="img/leaf-two.png" loading="lazy" /></div>
+                                            <div class="icon-box"><img src="img/leaf-two.png" data-src="img/leaf-two.png" alt="plumbers in Sydney" class="lazyload service-icon"   loading="lazy" / decoding="async"></div>
 
                                             <h5>
                                                 Let's<br />
@@ -3134,7 +3151,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                                 <div class="inner">
                                     <div class="content">
                                         <div class="s-title">
-                                            <div class="icon"><img alt="Drain Leakage Fixing Sydney" class="lazyload" data-src="img/waste-water.png" loading="lazy" title="Drain Leakage Fixing Sydney" /></div>
+                                            <div class="icon"><img src="img/waste-water.png" data-src="img/waste-water.png" alt="Drain Leakage Fixing Sydney" class="lazyload"   loading="lazy" title="Drain Leakage Fixing Sydney" / decoding="async"></div>
 
                                             <div class="subtitle">know About</div>
 
@@ -3345,7 +3362,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                         <div class="feature-boxes">
                             <div class="service-inner">
                                 <figure class="content-image">
-                                    <img data-src="assets/images/icons/blocked-drains-sydney.png" width="55" height="55"  class="lazyload" alt="Blocked Drains Sydney" title="Blocked Drains Sydney" loading="lazy">
+                                    <img src="assets/images/icons/blocked-drains-sydney.png" data-src="assets/images/icons/blocked-drains-sydney.png" width="55" height="55"  class="lazyload" alt="Blocked Drains Sydney" title="Blocked Drains Sydney" loading="lazy" decoding="async">
                                 </figure>
                                 <a href="clear-drains.html"><div class="content-title">Blocked Drains Sydney</div></a>
                                 <div class="content-desc">We understand that blocked drains in Sydney can occur at any time, day or night, and often require immediate attention as an emergency situation.
@@ -3358,7 +3375,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                         <div class="feature-boxes">
                             <div class="service-inner">
                                 <figure class="content-image">
-                                    <img data-src="assets/images/icons/leaking-burs-pipes-icon.png" width="55" height="55"  class="lazyload" alt="Leaking & Burst Pipes Sydney" title="Leaking & Burst Pipes Sydney" loading="lazy">
+                                    <img src="assets/images/icons/leaking-burs-pipes-icon.png" data-src="assets/images/icons/leaking-burs-pipes-icon.png" width="55" height="55"  class="lazyload" alt="Leaking & Burst Pipes Sydney" title="Leaking & Burst Pipes Sydney" loading="lazy" decoding="async">
                                 </figure>
                                 <a href="drain-leaks.html"><div class="content-title">Leaking & Burst Pipes</div></a>
                                 <div class="content-desc">We take the time to understand the problem by doing a thorough inspection of your entire drainage system to work out where..</div>
@@ -3370,7 +3387,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                         <div class="feature-boxes">
                             <div class="service-inner">
                                 <figure class="content-image">
-                                    <img data-src="assets/images/icons/hot-water-sydney.png" width="55" height="55"  class="lazyload" alt="Hot Water Sydney" title="Hot Water Sydney" loading="lazy">
+                                    <img src="assets/images/icons/hot-water-sydney.png" data-src="assets/images/icons/hot-water-sydney.png" width="55" height="55"  class="lazyload" alt="Hot Water Sydney" title="Hot Water Sydney" loading="lazy" decoding="async">
                                 </figure>
                                 <a href="hot-water.html"><div class="content-title">Hot Water Sydney</div></a>
                                 <div class="content-desc">We all rely upon our hot water systems Sydney to provide us with warm pleasant shower on a regular basis. In Sydney, hot water system..</div>
@@ -3382,7 +3399,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                         <div class="feature-boxes">
                             <div class="service-inner">
                                 <figure class="content-image">
-                                    <img data-src="assets/images/icons/gas-fitting-sydney.png" width="55" height="55"  class="lazyload" alt="Gas Fitters Sydney" title="Gas Fitters Sydney" loading="lazy">
+                                    <img src="assets/images/icons/gas-fitting-sydney.png" data-src="assets/images/icons/gas-fitting-sydney.png" width="55" height="55"  class="lazyload" alt="Gas Fitters Sydney" title="Gas Fitters Sydney" loading="lazy" decoding="async">
                                 </figure>
                                 <a href="gas-filter.html"><div class="content-title">Gas Fitters  Sydney</div></a>
                                 <div class="content-desc">Gas fitting Sydney can be completed on any appliance which runs on gas. For example, refrigerator, geyser, etc.</div>
@@ -3399,7 +3416,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                         <div class="feature-boxes">
                             <div class="service-inner">
                                 <figure class="content-image">
-                                    <img data-src="assets/images/icons/gas-leak-detection-sydney.png" width="55" height="55"  class="lazyload fb-ser-img" alt="Gas Leak Detection Sydney" title="Gas Leak Detection Sydney" loading="lazy">
+                                    <img src="assets/images/icons/gas-leak-detection-sydney.png" data-src="assets/images/icons/gas-leak-detection-sydney.png" width="55" height="55"  class="lazyload fb-ser-img" alt="Gas Leak Detection Sydney" title="Gas Leak Detection Sydney" loading="lazy" decoding="async">
                                 </figure>
                                 <a href="gas-leak.html"><div class="content-title">Gas Leak Detection</div></a>
                                 <div class="content-desc">To detect gas leak, our gas plumbers Sydney uses different other methods like bubble leak and leak detection device.</div>
@@ -3410,7 +3427,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                         <div class="feature-boxes">
                             <div class="service-inner">
                                 <figure class="content-image">
-                                    <img data-src="assets/images/icons/tap-repair-sydney.png" width="55" height="55"  class="lazyload" alt="Tap Repairs Sydney" title="Tap Repairs Sydney" loading="lazy">
+                                    <img src="assets/images/icons/tap-repair-sydney.png" data-src="assets/images/icons/tap-repair-sydney.png" width="55" height="55"  class="lazyload" alt="Tap Repairs Sydney" title="Tap Repairs Sydney" loading="lazy" decoding="async">
                                 </figure>
                                 <a href="tap-repair.html"><div class="content-title">Tap Repairs Sydney</div></a>
                                 <div class="content-desc">If your tap gets leaks it is quite common that your water wastage problems get rise thus it need to get fix as soon as it appears.</div>
@@ -3421,7 +3438,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                         <div class="feature-boxes">
                             <div class="service-inner">
                                 <figure class="content-image">
-                                    <img data-src="assets/images/icons/plumber-sydney.png" width="55" height="55"  class="lazyload" alt="Residential Plumbing Sydney" title="Residential Plumbing Sydney" loading="lazy">
+                                    <img src="assets/images/icons/plumber-sydney.png" data-src="assets/images/icons/plumber-sydney.png" width="55" height="55"  class="lazyload" alt="Residential Plumbing Sydney" title="Residential Plumbing Sydney" loading="lazy" decoding="async">
                                 </figure>
                                 <a href="residential-plumbing.html"><div class="content-title">Residential Plumbing</div></a>
                                 <div class="content-desc">Hydrolink Plumbing Sydney Service has been working with residential clients in Sydney over the past one decade. Our Sydney plumbers..</div>
@@ -3432,7 +3449,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                         <div class="feature-boxes">
                             <div class="service-inner">
                                 <figure class="content-image">
-                                    <img data-src="assets/images/icons/commercial-plumber-sydney.png" width="55" height="55"  class="lazyload fb-ser-img" alt="Commercial Plumbing Sydney" loading="lazy">
+                                    <img src="assets/images/icons/commercial-plumber-sydney.png" data-src="assets/images/icons/commercial-plumber-sydney.png" width="55" height="55"  class="lazyload fb-ser-img" alt="Commercial Plumbing Sydney" loading="lazy" decoding="async">
                                 </figure>
                                 <a href="commercial-plumbing.html"><div class="content-title">Commercial Plumbing</div></a>
                                 <div class="content-desc">We provide commercial plumbing services in Sydney to the highest standard, ensuring that all projects are completed efficiently and seamlessly.
@@ -3486,7 +3503,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                             </ul>
                         </div>
 
-                        <div class="col-lg-3"><img alt="Sydney plumbing company" class="lazyload" data-src="img/champion-aword.png" loading="lazy" title="Small Business Champion Award" /></div>
+                        <div class="col-lg-3"><img src="img/champion-aword.png" data-src="img/champion-aword.png" alt="Sydney plumbing company" class="lazyload"   loading="lazy" title="Small Business Champion Award" / decoding="async"></div>
                     </div>
                 </div>
             </div>
@@ -3643,7 +3660,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                         <div class="left-col col-xl-6 col-lg-12 col-md-12">
                             <div class="sec-title alternate">
                                 <div class="title-icon">
-                                    <span class="icon icon_w"><img alt="residential plumbers Sydney" class="lazyload" data-src="images/icons/leaf-eight.png" loading="lazy" title="plumber sydney" /> </span>
+                                    <span class="icon icon_w"><img src="images/icons/leaf-eight.png" data-src="images/icons/leaf-eight.png" alt="residential plumbers Sydney" class="lazyload"   loading="lazy" title="plumber sydney" / decoding="async"> </span>
                                 </div>
 
                                 <div class="subtitle text-cen mobcolor-w">Why Choose Hydrolink</div>
@@ -3749,84 +3766,84 @@ With over a decade of experience, we understand the challenges involved in <stro
 
 
 
-                           <img data-src="images/new-gallery/basin-plumber.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
-                           <img data-src="images/new-gallery/bathroom-plumber-sydney.webp" width="140" height="140" class="lazyload" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
-                           <img data-src="images/new-gallery/bathroom-renovation-sydney.webp" width="140" height="140" class="lazyload" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
-                           <img data-src="images/new-gallery/bathroom-renovator.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
+                           <img src="images/new-gallery/basin-plumber.webp" data-src="images/new-gallery/basin-plumber.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/bathroom-plumber-sydney.webp" data-src="images/new-gallery/bathroom-plumber-sydney.webp" width="140" height="140" class="lazyload" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/bathroom-renovation-sydney.webp" data-src="images/new-gallery/bathroom-renovation-sydney.webp" width="140" height="140" class="lazyload" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/bathroom-renovator.webp" data-src="images/new-gallery/bathroom-renovator.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
 
 
 
-                           <img data-src="images/new-gallery/bathroom-sydney-plumber.webp" width="140" height="140" class="lazyload" alt="Plumbing Sydney" title="Plumbing Sydney" loading="lazy">
-                           <img data-src="images/new-gallery/clear-blocked-drains.webp" width="140" height="140" class="lazyload" alt="Plumbing Sydney" title="Plumbing Sydney" loading="lazy">
+                           <img src="images/new-gallery/bathroom-sydney-plumber.webp" data-src="images/new-gallery/bathroom-sydney-plumber.webp" width="140" height="140" class="lazyload" alt="Plumbing Sydney" title="Plumbing Sydney" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/clear-blocked-drains.webp" data-src="images/new-gallery/clear-blocked-drains.webp" width="140" height="140" class="lazyload" alt="Plumbing Sydney" title="Plumbing Sydney" loading="lazy" decoding="async">
 						   
-                           <!--<img data-src="images/new-gallery/drains-leaks.jpeg" class="lazyload" alt="Plumbing Sydney" title="Plumbing Sydney" loading="lazy">-->
-                           <!--<img data-src="images/new-gallery/hot-water-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
+                           <!--<img src="images/new-gallery/drains-leaks.jpeg" data-src="images/new-gallery/drains-leaks.jpeg" class="lazyload" alt="Plumbing Sydney" title="Plumbing Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/new-gallery/hot-water-plumber.jpeg" data-src="images/new-gallery/hot-water-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
 
 
 
-                           <img data-src="images/new-gallery/hot-water-systems.webp" width="140" height="140" class="lazyload" alt="Sydney plumbers" title="Sydney plumbers" loading="lazy">
-                           <img data-src="images/new-gallery/leak-drains.webp" width="140" height="140" class="lazyload" alt="Sydney plumbers" title="Sydney plumbers" loading="lazy">
-                           <img data-src="images/new-gallery/residential-plumbing.webp" width="140" height="140" class="lazyload" alt="Sydney plumbers" title="Sydney plumbers" loading="lazy">
-                           <img data-src="images/new-gallery/shower-leak-repair.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
+                           <img src="images/new-gallery/hot-water-systems.webp" data-src="images/new-gallery/hot-water-systems.webp" width="140" height="140" class="lazyload" alt="Sydney plumbers" title="Sydney plumbers" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/leak-drains.webp" data-src="images/new-gallery/leak-drains.webp" width="140" height="140" class="lazyload" alt="Sydney plumbers" title="Sydney plumbers" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/residential-plumbing.webp" data-src="images/new-gallery/residential-plumbing.webp" width="140" height="140" class="lazyload" alt="Sydney plumbers" title="Sydney plumbers" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/shower-leak-repair.webp" data-src="images/new-gallery/shower-leak-repair.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
 
 
-                           <img data-src="images/new-gallery/shower-plumber-sydney.webp" width="140" height="140" class="lazyload" alt="Sydney emergency plumber" title="Sydney emergency plumber" loading="lazy">
-                           <img data-src="images/new-gallery/shower-repair-sydney.webp" width="140" height="140" class="lazyload" alt="Sydney emergency plumber" title="Sydney emergency plumber" loading="lazy">
-                           <img data-src="images/new-gallery/sydney-bathroom-plumber.webp" width="140" height="140" class="lazyload" alt="Sydney emergency plumber" title="Sydney emergency plumber" loading="lazy">
-                           <img data-src="images/new-gallery/sydney-hot-water-systems.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
+                           <img src="images/new-gallery/shower-plumber-sydney.webp" data-src="images/new-gallery/shower-plumber-sydney.webp" width="140" height="140" class="lazyload" alt="Sydney emergency plumber" title="Sydney emergency plumber" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/shower-repair-sydney.webp" data-src="images/new-gallery/shower-repair-sydney.webp" width="140" height="140" class="lazyload" alt="Sydney emergency plumber" title="Sydney emergency plumber" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/sydney-bathroom-plumber.webp" data-src="images/new-gallery/sydney-bathroom-plumber.webp" width="140" height="140" class="lazyload" alt="Sydney emergency plumber" title="Sydney emergency plumber" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/sydney-hot-water-systems.webp" data-src="images/new-gallery/sydney-hot-water-systems.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
 
 
 
-                           <img data-src="images/new-gallery/sydney-showeer-plumber.webp" width="140" height="140" class="lazyload" alt="Commercial Plumber Sydney" title="Commercial Plumber Sydney" loading="lazy">
-                           <img data-src="images/new-gallery/tap-plumber-sydney.webp" width="140" height="140" class="lazyload" alt="Commercial Plumber Sydney" title="Commercial Plumber Sydney" loading="lazy">
-                           <img data-src="images/new-gallery/tap-repair-sydney.webp" width="140" height="140" class="lazyload" alt="Commercial Plumber Sydney" title="Commercial Plumber Sydney" loading="lazy">
-                           <img data-src="images/new-gallery/toilet-plumber.webp" width="140" height="140" class="lazyload" alt="Commercial Plumber Sydney" title="Commercial Plumber Sydney" loading="lazy">
-                           <img data-src="images/new-gallery/toilet-repair.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
+                           <img src="images/new-gallery/sydney-showeer-plumber.webp" data-src="images/new-gallery/sydney-showeer-plumber.webp" width="140" height="140" class="lazyload" alt="Commercial Plumber Sydney" title="Commercial Plumber Sydney" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/tap-plumber-sydney.webp" data-src="images/new-gallery/tap-plumber-sydney.webp" width="140" height="140" class="lazyload" alt="Commercial Plumber Sydney" title="Commercial Plumber Sydney" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/tap-repair-sydney.webp" data-src="images/new-gallery/tap-repair-sydney.webp" width="140" height="140" class="lazyload" alt="Commercial Plumber Sydney" title="Commercial Plumber Sydney" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/toilet-plumber.webp" data-src="images/new-gallery/toilet-plumber.webp" width="140" height="140" class="lazyload" alt="Commercial Plumber Sydney" title="Commercial Plumber Sydney" loading="lazy" decoding="async">
+                           <img src="images/new-gallery/toilet-repair.webp" data-src="images/new-gallery/toilet-repair.webp" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
 						   
-						     <img data-src="images/new-gallery/gallery1.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
+						     <img src="images/new-gallery/gallery1.jpg" data-src="images/new-gallery/gallery1.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
 
- <img data-src="images/new-gallery/gallery2.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
-  <img data-src="images/new-gallery/gallery3.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
-   <img data-src="images/new-gallery/gallery4.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
-    <img data-src="images/new-gallery/gallery5.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
- <img data-src="images/new-gallery/gallery6.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
-  <img data-src="images/new-gallery/gallery7.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
-   <img data-src="images/new-gallery/gallery8.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
-    <img data-src="images/new-gallery/gallery9.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
-	 <img data-src="images/new-gallery/gallery10.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">
+ <img src="images/new-gallery/gallery2.jpg" data-src="images/new-gallery/gallery2.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
+  <img src="images/new-gallery/gallery3.jpg" data-src="images/new-gallery/gallery3.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
+   <img src="images/new-gallery/gallery4.jpg" data-src="images/new-gallery/gallery4.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
+    <img src="images/new-gallery/gallery5.jpg" data-src="images/new-gallery/gallery5.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
+ <img src="images/new-gallery/gallery6.jpg" data-src="images/new-gallery/gallery6.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
+  <img src="images/new-gallery/gallery7.jpg" data-src="images/new-gallery/gallery7.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
+   <img src="images/new-gallery/gallery8.jpg" data-src="images/new-gallery/gallery8.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
+    <img src="images/new-gallery/gallery9.jpg" data-src="images/new-gallery/gallery9.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
+	 <img src="images/new-gallery/gallery10.jpg" data-src="images/new-gallery/gallery10.jpg" width="140" height="140" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">
 
-                           <!--<img data-src="images/gallery/bathroom-plumber-sydney.jpeg" class="lazyload" alt="Bathroom Plumber Sydney" title="Bathroom Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/bathroom-plumber.jpeg" class="lazyload" alt="Bathroom Plumber" title="Bathroom Plumber" loading="lazy">-->
-                           <!--<img data-src="images/gallery/bathroom-sydney.jpeg" class="lazyload" alt="Bathroom Sydney" title="Bathroom Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/commercial-sydney-plumber.jpeg" class="lazyload" alt="Commercial Sydney Plumber" title="Commercial Sydney Plumber" loading="lazy"> -->
-                           <!--<img data-src="images/gallery/hydrolink-plumbing-sydney.jpeg" class="lazyload" alt="Hydrolink Plumbing Sydney" title="Hydrolink Plumbing Sydney" loading="lazy">-->
-
-
-                           <!--<img data-src="images/gallery/kitchen-plumber.jpeg" class="lazyload" alt="Kitchen Plumber" title="Kitchen Plumber" loading="lazy">-->
-                           <!--<img data-src="images/gallery/kitchen-renovations-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/leak-drains-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/leak-toilet-repair.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/local-plumber-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
+                           <!--<img src="images/gallery/bathroom-plumber-sydney.jpeg" data-src="images/gallery/bathroom-plumber-sydney.jpeg" class="lazyload" alt="Bathroom Plumber Sydney" title="Bathroom Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/bathroom-plumber.jpeg" data-src="images/gallery/bathroom-plumber.jpeg" class="lazyload" alt="Bathroom Plumber" title="Bathroom Plumber" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/bathroom-sydney.jpeg" data-src="images/gallery/bathroom-sydney.jpeg" class="lazyload" alt="Bathroom Sydney" title="Bathroom Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/commercial-sydney-plumber.jpeg" data-src="images/gallery/commercial-sydney-plumber.jpeg" class="lazyload" alt="Commercial Sydney Plumber" title="Commercial Sydney Plumber" loading="lazy" decoding="async"> -->
+                           <!--<img src="images/gallery/hydrolink-plumbing-sydney.jpeg" data-src="images/gallery/hydrolink-plumbing-sydney.jpeg" class="lazyload" alt="Hydrolink Plumbing Sydney" title="Hydrolink Plumbing Sydney" loading="lazy" decoding="async">-->
 
 
-
-                           <!--<img data-src="images/gallery/local-sydney-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/oven-instalations-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/plumbing-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/residential-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/sydney-bathroom-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-
-
-                           <!--<img data-src="images/gallery/sydney-kitchen-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/sydney-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/sydney-plumbing.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/sydney-tap-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/sydney-toilet-repair.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
+                           <!--<img src="images/gallery/kitchen-plumber.jpeg" data-src="images/gallery/kitchen-plumber.jpeg" class="lazyload" alt="Kitchen Plumber" title="Kitchen Plumber" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/kitchen-renovations-sydney.jpeg" data-src="images/gallery/kitchen-renovations-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/leak-drains-sydney.jpeg" data-src="images/gallery/leak-drains-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/leak-toilet-repair.jpeg" data-src="images/gallery/leak-toilet-repair.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/local-plumber-sydney.jpeg" data-src="images/gallery/local-plumber-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
 
 
-                           <!--<img data-src="images/gallery/tap-repair-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/toilet-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
-                           <!--<img data-src="images/gallery/toilet-repair-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy">-->
+
+                           <!--<img src="images/gallery/local-sydney-plumber.jpeg" data-src="images/gallery/local-sydney-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/oven-instalations-sydney.jpeg" data-src="images/gallery/oven-instalations-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/plumbing-sydney.jpeg" data-src="images/gallery/plumbing-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/residential-plumber.jpeg" data-src="images/gallery/residential-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/sydney-bathroom-plumber.jpeg" data-src="images/gallery/sydney-bathroom-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+
+
+                           <!--<img src="images/gallery/sydney-kitchen-plumber.jpeg" data-src="images/gallery/sydney-kitchen-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/sydney-plumber.jpeg" data-src="images/gallery/sydney-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/sydney-plumbing.jpeg" data-src="images/gallery/sydney-plumbing.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/sydney-tap-plumber.jpeg" data-src="images/gallery/sydney-tap-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/sydney-toilet-repair.jpeg" data-src="images/gallery/sydney-toilet-repair.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+
+
+                           <!--<img src="images/gallery/tap-repair-sydney.jpeg" data-src="images/gallery/tap-repair-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/toilet-plumber.jpeg" data-src="images/gallery/toilet-plumber.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
+                           <!--<img src="images/gallery/toilet-repair-sydney.jpeg" data-src="images/gallery/toilet-repair-sydney.jpeg" class="lazyload" alt="Plumber Sydney" title="Plumber Sydney" loading="lazy" decoding="async">-->
 
 
 
@@ -4173,7 +4190,7 @@ With over a decade of experience, we understand the challenges involved in <stro
 
                             <p>Block Drains</p>
 
-                            <div class="price_image"><img alt="get plumbing quote in Sydney" class="lazyload" data-src="img/waste-water.png" loading="lazy" title="get plumbing quote" /></div>
+                            <div class="price_image"><img src="img/waste-water.png" data-src="img/waste-water.png" alt="get plumbing quote in Sydney" class="lazyload"   loading="lazy" title="get plumbing quote" / decoding="async"></div>
                             <a href="appointment.html">Claim This Deal</a>
                         </div>
                     </div>
@@ -4186,7 +4203,7 @@ With over a decade of experience, we understand the challenges involved in <stro
 
                             <p>Toilet Repair</p>
 
-                            <div class="price_image"><img alt="plumbers Sydney" class="lazyload" data-src="img/toilet.png" loading="lazy" title="plumbers Sydney" /></div>
+                            <div class="price_image"><img src="img/toilet.png" data-src="img/toilet.png" alt="plumbers Sydney" class="lazyload"   loading="lazy" title="plumbers Sydney" / decoding="async"></div>
                             <a href="appointment.html">Claim This Deal</a>
                         </div>
                     </div>
@@ -4199,7 +4216,7 @@ With over a decade of experience, we understand the challenges involved in <stro
 
                             <p>House Plumbing Inspections</p>
 
-                            <div class="price_image"><img alt="plumbers in Sydney" class="lazyload" data-src="images/icons/leaf-eight.png" loading="lazy" title="plumbers sydney" /></div>
+                            <div class="price_image"><img src="images/icons/leaf-eight.png" data-src="images/icons/leaf-eight.png" alt="plumbers in Sydney" class="lazyload"   loading="lazy" title="plumbers sydney" / decoding="async"></div>
                             <a href="appointment.html">Claim This Deal</a>
                         </div>
                     </div>
@@ -4212,7 +4229,7 @@ With over a decade of experience, we understand the challenges involved in <stro
 
                             <p>Hot Water Tank</p>
 
-                            <div class="price_image"><img alt="plumbers in Sydney" class="lazyload" data-src="img/tank.png" loading="lazy" title="plumbers sydney" /></div>
+                            <div class="price_image"><img src="img/tank.png" data-src="img/tank.png" alt="plumbers in Sydney" class="lazyload"   loading="lazy" title="plumbers sydney" / decoding="async"></div>
                             <a href="appointment.html">Claim This Deal</a>
                         </div>
                     </div>
@@ -4225,7 +4242,7 @@ With over a decade of experience, we understand the challenges involved in <stro
 
                             <p>Your Next Plumbing Services</p>
 
-                            <div class="price_image"><img alt="best plumbers Sydney" class="lazyload" data-src="images/icons/leaf-eight.png" loading="lazy" title="plumbers sydney" /></div>
+                            <div class="price_image"><img src="images/icons/leaf-eight.png" data-src="images/icons/leaf-eight.png" alt="best plumbers Sydney" class="lazyload"   loading="lazy" title="plumbers sydney" / decoding="async"></div>
                             <a href="appointment.html">Claim This Deal</a>
                         </div>
                     </div>
@@ -4239,7 +4256,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                             <p>High pressure jet cleaning with  free cctv camera inspection
 </p>
 
-                            <div class="price_image high-pressure"><img alt="best plumbers Sydney" class="lazyload" data-src="img/high-pressure.png" loading="lazy" title="plumbers sydney" /></div>
+                            <div class="price_image high-pressure"><img src="img/high-pressure.png" data-src="img/high-pressure.png" alt="best plumbers Sydney" class="lazyload"   loading="lazy" title="plumbers sydney" / decoding="async"></div>
                             <a href="appointment.html">Claim This Deal</a>
                         </div>
                     </div>
@@ -4266,7 +4283,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                     <div class="carousel-col col-lg-12 col-md-12 col-sm-12">
                         <div class="sec-title hy-request-2">
                             <div class="title-icon">
-                                <span class="icon"><img alt="Testimonials" class="lazyload" data-src="images/icons/leaf-two.png" loading="lazy" title="Testimonials" /> </span>
+                                <span class="icon"><img src="images/icons/leaf-two.png" data-src="images/icons/leaf-two.png" alt="Testimonials" class="lazyload"   loading="lazy" title="Testimonials" / decoding="async"> </span>
                             </div>
 
                             <div class="subtitle">Testimonials</div>
@@ -4394,7 +4411,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                 <div class="upper-box clearfix">
                     <div class="sec-title">
                         <div class="title-icon">
-                            <span class="icon"><img alt="plumbing service Sydney" class="lazyload" data-src="images/icons/leaf-two.png" loading="lazy" title="plumbing service Sydney" /> </span>
+                            <span class="icon"><img src="images/icons/leaf-two.png" data-src="images/icons/leaf-two.png" alt="plumbing service Sydney" class="lazyload"   loading="lazy" title="plumbing service Sydney" / decoding="async"> </span>
                         </div>
 
                         <div class="subtitle">News &amp; Updates</div>
@@ -4413,15 +4430,14 @@ With over a decade of experience, we understand the challenges involved in <stro
                             <div class="inner-box">
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img
-                                            alt="plumbing service Sydney"
+                                        <img src="images/resource/blog-1.jpg" data-src="images/resource/blog-1.jpg" alt="plumbing service Sydney"
                                             class="lazyload"
                                             content="Hydrolink plumbing sydney specialises in every aspect of plumbing and gas services, our qualified technicians are available 24/7 call us any time on 0433 629 517"
-                                            data-src="images/resource/blog-1.jpg"
+                                             
                                             description="Hydrolink plumbing sydney specialises in every aspect of plumbing and gas services, our qualified technicians are available 24/7 call us any time on 0433 629 517"
                                             loading="lazy"
                                             title="plumbing service sydney"
-                                        />
+                                        / decoding="async">
                                     </div>
 
                                     <div class="info clearfix">
@@ -4445,15 +4461,14 @@ With over a decade of experience, we understand the challenges involved in <stro
                             <div class="inner-box">
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img
-                                            alt="best plumbers Sydney"
+                                        <img src="images/resource/blog-2.png" data-src="images/resource/blog-2.png" alt="best plumbers Sydney"
                                             class="lazyload"
                                             content="Hydrolink plumbing sydney specialises in every aspect of plumbing and gas services, our qualified technicians are available 24/7 call us any time on 0433 629 517"
-                                            data-src="images/resource/blog-2.png"
+                                             
                                             description="Hydrolink plumbing sydney specialises in every aspect of plumbing and gas services, our qualified technicians are available 24/7 call us any time on 0433 629 517"
                                             loading="lazy"
                                             title="plumber sydney"
-                                        />
+                                        / decoding="async">
                                     </div>
 
                                     <div class="info clearfix">
@@ -4480,15 +4495,14 @@ With over a decade of experience, we understand the challenges involved in <stro
                             <div class="inner-box">
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img
-                                            alt="Sydney plumbing"
+                                        <img src="images/resource/blog-3.png" data-src="images/resource/blog-3.png" alt="Sydney plumbing"
                                             class="lazyload"
                                             content="Hydrolink plumbing sydney specialises in every aspect of plumbing and gas services, our qualified technicians are available 24/7 call us any time on 0433 629 517"
-                                            data-src="images/resource/blog-3.png"
+                                             
                                             description="Hydrolink plumbing sydney specialises in every aspect of plumbing and gas services, our qualified technicians are available 24/7 call us any time on 0433 629 517"
                                             loading="lazy"
                                             title="Sydney plumbing"
-                                        />
+                                        / decoding="async">
                                     </div>
 
                                     <div class="info clearfix">
@@ -4523,28 +4537,28 @@ With over a decade of experience, we understand the challenges involved in <stro
                     <div class="col-lg-3 pad-0 brand-icon-50">
                         <div class="hot-water-logos">
                             <a href="https://www.rheem.com.au/rheem/" target="_blank" title="Rheem Manufacturing Company">
-                                <img data-src="assets/images/logo/rheem-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
+                                <img src="assets/images/logo/rheem-logo.png" data-src="assets/images/logo/rheem-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 pad-0 brand-icon-50">
                         <div class="hot-water-logos">
                             <a href="https://www.dux.com.au/" target="_blank" title="Dux Hot Water Systems">
-                                <img data-src="assets/images/logo/dux-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
+                                <img src="assets/images/logo/dux-logo.png" data-src="assets/images/logo/dux-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 pad-0 brand-icon-50">
                         <div class="hot-water-logos">
                             <a href="https://www.rinnai.com.au/" target="_blank" title="Find the right Rinnai system or solution">
-                                <img data-src="assets/images/logo/rinnai-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
+                                <img src="assets/images/logo/rinnai-logo.png" data-src="assets/images/logo/rinnai-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 pad-0 brand-icon-50">
                         <div class="hot-water-logos border-right-none">
                             <a href="https://www.aquamax.com.au/" target="_blank" title="Welcome to Aquamax - Hot water solutions">
-                                <img data-src="assets/images/logo/aquamax-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
+                                <img src="assets/images/logo/aquamax-logo.png" data-src="assets/images/logo/aquamax-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
                             </a>
                         </div>
                     </div>
@@ -4554,28 +4568,28 @@ With over a decade of experience, we understand the challenges involved in <stro
                     <div class="col-lg-3 pad-0 brand-icon-50">
                         <div class="hot-water-logo">
                             <a href="https://www.bosch-homecomfort.com/au/en/residential/home/" target="_blank" title="Bosch Hot Water & Heating">
-                                <img data-src="assets/images/logo/bosch.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
+                                <img src="assets/images/logo/bosch.png" data-src="assets/images/logo/bosch.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 pad-0 brand-icon-50">
                         <div class="hot-water-logo">
                             <a href="https://www.vulcan.com.au/" target="_blank" title="Vulcan Water Heaters">
-                                <img data-src="assets/images/logo/vulcan-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
+                                <img src="assets/images/logo/vulcan-logo.png" data-src="assets/images/logo/vulcan-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 pad-0 brand-icon-50">
                         <div class="hot-water-logo">
                             <a href="https://chromagen.com.au/" target="_blank" title="Chromagen Australia">
-                                <img data-src="assets/images/logo/Chromagen-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
+                                <img src="assets/images/logo/Chromagen-logo.png" data-src="assets/images/logo/Chromagen-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-3 brand-icon-50">
                         <div class="hot-water-logo border-right-none">
                             <a href="https://wilsonhotwater.com.au/" target="_blank" title="Wilson Hot Water">
-                                <img data-src="assets/images/logo/wilson-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy">
+                                <img src="assets/images/logo/wilson-logo.png" data-src="assets/images/logo/wilson-logo.png" alt="Plumbers Sydney" title="Plumbers Sydney" loading="lazy" decoding="async">
                             </a>
                         </div>
                     </div>
@@ -4598,11 +4612,11 @@ With over a decade of experience, we understand the challenges involved in <stro
 
                             <div class="why-waiting-btn-group d-flex align-items-center flex-wrap">
                                 <button class="btn why-waiting-btn">
-                                    <img alt="Sydney plumbing" class="why-waiting-img lazyload" data-src="img/phone-call.png" loading="lazy" /> Contact<br />
+                                    <img src="img/phone-call.png" data-src="img/phone-call.png" alt="Sydney plumbing" class="why-waiting-img lazyload"   loading="lazy" / decoding="async"> Contact<br />
                                     <span>a plumber</span>
                                 </button>
                                 <button class="btn why-waiting-btn">
-                                    <img alt="plubers in Sydney" class="why-waiting-img lazyload" data-src="img/location.png" loading="lazy" /> Schedule<br />
+                                    <img src="img/location.png" data-src="img/location.png" alt="plubers in Sydney" class="why-waiting-img lazyload"   loading="lazy" / decoding="async"> Schedule<br />
                                     <span>an appointment</span>
                                 </button>
                             </div>
@@ -4610,7 +4624,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                     </div>
 
                     <div class="col-lg-6 video-container">
-                        <!--<img alt="Sydney plumbers" class="lazyload" data-src="img/plumbers-sydney.png" loading="lazy" />-->
+                        <!--<img src="img/plumbers-sydney.png" data-src="img/plumbers-sydney.png" alt="Sydney plumbers" class="lazyload"   loading="lazy" / decoding="async">-->
                         <video autoplay muted playsinline loop controls width="1000" height="500">
                           <source src="img/ser/WhatsApp Video 2025-09-27 at 4.00.55 PM.mp4" type="video/mp4">
                          
@@ -4629,7 +4643,7 @@ With over a decade of experience, we understand the challenges involved in <stro
             <a class="closebtn" href="javascript:void(0);" onclick="closeNav()">&times;</a>
             <h3>Gas Heater Service in Sydney</h3>
             <p class="tdm">Book Online or Call 0433 629 517</p>
-            <img alt="Hydrolink Plumbing sydney" class="lazyload" data-src="img/logo.webp" loading="lazy" title="Hydrolink Plumbing sydney" /> <span> <a href="appointment.html">Book Now</a> </span>
+            <img src="img/logo.webp" data-src="img/logo.webp" alt="Hydrolink Plumbing sydney" class="lazyload"   loading="lazy" title="Hydrolink Plumbing sydney" / decoding="async"> <span> <a href="appointment.html">Book Now</a> </span>
             <span> <a href="https://www.localgasheatersydney.com.au/" target="_blank">Learn More</a> </span>
         </div>
 
@@ -4654,10 +4668,10 @@ With over a decade of experience, we understand the challenges involved in <stro
         </button>
 
         <div class="desk-btngp" id="deskgroupbtn">
-            <a href="tel:0433629517" title="Call Us"><img alt="Call Us" class="lazyload hydro-call-desk-btn" data-src="images/call-desk-btn.png" loading="lazy" title="Call Us" /> </a>
-            <a href="https://www.facebook.com/hydrolinkplumbing/" target="_blank" title="social icon"> <img alt="follow us on facebook" class="lazyload" data-src="images/fb-round.png" loading="lazy" title="follow us on facebook" /> </a>
+            <a href="tel:0433629517" title="Call Us"><img src="images/call-desk-btn.png" data-src="images/call-desk-btn.png" alt="Call Us" class="lazyload hydro-call-desk-btn"   loading="lazy" title="Call Us" / decoding="async"> </a>
+            <a href="https://www.facebook.com/hydrolinkplumbing/" target="_blank" title="social icon"> <img src="images/fb-round.png" data-src="images/fb-round.png" alt="follow us on facebook" class="lazyload"   loading="lazy" title="follow us on facebook" / decoding="async"> </a>
             <a href="https://www.instagram.com/hydrolinkplumbing/" target="_blank" title="social icon">
-                <img alt="follow us on instagram" class="lazyload" data-src="images/insta-round.png" loading="lazy" title="follow us on instagram" />
+                <img src="images/insta-round.png" data-src="images/insta-round.png" alt="follow us on instagram" class="lazyload"   loading="lazy" title="follow us on instagram" / decoding="async">
             </a>
         </div>
 
@@ -4696,7 +4710,7 @@ With over a decade of experience, we understand the challenges involved in <stro
                     <div class="upper">
                         <div class="inner">
                             <div class="logo">
-                                <a href="index.html"><img alt="Sydney Plumber Hydrolink Plumbing" class="foot-logo-img" data-src="images/sydney-plumber-hydrolink-plumbing.png" loading="lazy" title="Sydney Plumber Hydrolink plumbing" /> </a>
+                                <a href="index.html"><img src="images/sydney-plumber-hydrolink-plumbing.png" data-src="images/sydney-plumber-hydrolink-plumbing.png" alt="Sydney Plumber Hydrolink Plumbing" class="foot-logo-img"   loading="lazy" title="Sydney Plumber Hydrolink plumbing" / decoding="async"> </a>
                             </div>
 
                             <div class="clearfix">
@@ -4904,7 +4918,7 @@ With over a decade of experience, we understand the challenges involved in <stro
         </footer>
     </div> 
     
-    <a href="tel:0433629517" id="callnowbutton"><img alt="Call Hydrolink Plumber Sydney" class="ab30" data-src="img/call.png" loading="lazy" /> Call Hydrolink Plumbing </a>
+    <a href="tel:0433629517" id="callnowbutton"><img src="img/call.png" data-src="img/call.png" alt="Call Hydrolink Plumber Sydney" class="ab30"   loading="lazy" / decoding="async"> Call Hydrolink Plumbing </a>
         
     <script type="text/javascript" src="assets/js/main.min.js" defer></script>
         
@@ -4935,9 +4949,17 @@ With over a decade of experience, we understand the challenges involved in <stro
                         document.getElementById("digital-clock").innerHTML = `${hours}:${minutes}:${seconds}${amPm}`;
                     }, 1000);
                     var mybutton = document.getElementById("myBtn");
-                    window.onscroll = function () {
-                        scrollFunction(), showsection();
-                    };
+                    var ticking = false;
+                    window.addEventListener("scroll", function () {
+                        if (!ticking) {
+                            window.requestAnimationFrame(function () {
+                                scrollFunction();
+                                showsection();
+                                ticking = false;
+                            });
+                            ticking = true;
+                        }
+                    }, { passive: true });
 
                     function scrollFunction() {
                         if (document.body.scrollTop > 60 || document.documentElement.scrollTop > 60) {

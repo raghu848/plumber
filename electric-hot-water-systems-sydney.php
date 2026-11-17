@@ -54,7 +54,7 @@
                                 
                                 <div class="upper">
                                     <div class="image-box">
-                                        <img src="images/resource/blog-14.jpg" alt="sydney plumber" title="<?php echo $blogname; ?>">
+                                        <img src="images/resource/blog-14.jpg" alt="sydney plumber" title="<?php echo $blogname; ? loading="lazy" decoding="async">">
                                     </div>
                                 </div>
                                 <div class="post-meta">
@@ -101,17 +101,17 @@
     <!-- Footer Section -->
     <?php include 'include/footer.php'; ?>
 
-    <script src="js/jquery.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery-ui.js"></script>
-    <script src="js/jquery.fancybox.js"></script>
-    <script src="js/owl.js"></script>
-    <script src="js/scrollbar.js"></script>
-    <script src="js/appear.js"></script>
-    <script src="js/wow.js"></script>
-    <script src="js/custom-script.js"></script>
+    <script src="js/jquery.js" defer></script>
+    <script src="js/jquery.validate.min.js" defer></script>
+    <script src="js/popper.min.js" defer></script>
+    <script src="js/bootstrap.min.js" defer></script>
+    <script src="js/jquery-ui.js" defer></script>
+    <script src="js/jquery.fancybox.js" defer></script>
+    <script src="js/owl.js" defer></script>
+    <script src="js/scrollbar.js" defer></script>
+    <script src="js/appear.js" defer></script>
+    <script src="js/wow.js" defer></script>
+    <script src="js/custom-script.js" defer></script>
 
     <script type="text/javascript">
         function openNav() {

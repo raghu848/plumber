@@ -8,44 +8,44 @@
                                 </div>
                                 
                                 <div class="post">
-                                    <figure class="post-thumb"><img src="images/resource/gas-leak-detection-sydney.jpg" alt="plumber sydney"></figure>
+                                    <figure class="post-thumb"><img src="images/resource/gas-leak-detection-sydney.jpg" alt="plumber sydney" loading="lazy" decoding="async"></figure>
                                     <h5 class="text"><a href="gas-leak-detection-sydney.php">Gas Leak Detection Sydney</a></h5>
                                     <div class="info">12 Aug 2022</div>
                                 </div>
 
                                 <div class="post">
-                                    <figure class="post-thumb"><img src="images/resource/blog-7.jpg" alt="plumber sydney"></figure>
+                                    <figure class="post-thumb"><img src="images/resource/blog-7.jpg" alt="plumber sydney" loading="lazy" decoding="async"></figure>
                                     <h5 class="text"><a href="gas-hot-water-system-sydney.php">Gas Hot Water System Sydney</a></h5>
                                     <div class="info">07 Jan 2022</div>
                                 </div>
 
                                 <div class="post">
-                                    <figure class="post-thumb"><img src="images/resource/blog-8.jpg" alt="plumber sydney"></figure>
+                                    <figure class="post-thumb"><img src="images/resource/blog-8.jpg" alt="plumber sydney" loading="lazy" decoding="async"></figure>
                                     <h5 class="text"><a href="heat-pump-hot-water-system-sydney.php">Heat pump Hot Water System Sydney</a></h5>
                                     <div class="info">14 Dec 2021</div>
                                 </div>
 
                                 <div class="post">
-                                    <figure class="post-thumb"><img src="images/resource/blog-9.jpg" alt="plumber sydney"></figure>
+                                    <figure class="post-thumb"><img src="images/resource/blog-9.jpg" alt="plumber sydney" loading="lazy" decoding="async"></figure>
                                     <h5 class="text"><a href="solar-hot-water-system-sydney.php">Solar Hot Water System Sydney</a></h5>
                                     <div class="info">05 Oct 2021</div>
                                 </div>
 
                                 <div class="post">
-                                    <figure class="post-thumb"><img src="images/resource/blog-13.jpg" alt="plumber sydney"></figure>
+                                    <figure class="post-thumb"><img src="images/resource/blog-13.jpg" alt="plumber sydney" loading="lazy" decoding="async"></figure>
                                     <h5 class="text"><a href="hot-water-systems-sydney.php">Hot Water Systems Sydney</a></h5>
                                     <div class="info">28 Dec 2020</div>
                                 </div>
 
                                 <div class="post">
-                                    <figure class="post-thumb"><img src="images/resource/blog-14.jpg" alt="plumber sydney"></figure>
+                                    <figure class="post-thumb"><img src="images/resource/blog-14.jpg" alt="plumber sydney" loading="lazy" decoding="async"></figure>
                                     <h5 class="text"><a href="electric-hot-water-systems-sydney.php">Electric Hot Water Systems Sydney</a></h5>
                                     <div class="info">12 Nov 2020</div>
                                 </div>
 
 
                                 <div class="post">
-                                    <figure class="post-thumb"><img src="images/resource/blog-11.jpg" alt="plumber sydney"></figure>
+                                    <figure class="post-thumb"><img src="images/resource/blog-11.jpg" alt="plumber sydney" loading="lazy" decoding="async"></figure>
                                     <h5 class="text"><a href="commercial-plumbing-sydney.php">Commercial Plumbing Sydney</a></h5>
                                     <div class="info">23 Apr 2021</div>
                                 </div>
