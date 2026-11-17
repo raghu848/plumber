@@ -24,6 +24,704 @@
     top: 0 !important;
     transform: unset !important;
 }
+.preloader { display: none !important; opacity: 0 !important; visibility: hidden !important; pointer-events: none !important; }
+
+/* Consolidated body styles for smooth rendering */
+
+.video-showcase-section{
+    padding:100px 0;
+    text-align:center;
+}
+
+.video-showcase-section .subtitle{
+    color:#00a3e0;
+    font-size:16px;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    margin-bottom:10px;
+}
+
+.video-showcase-section h2{
+    font-size:42px;
+    line-height:1.2;
+    margin-bottom:20px;
+}
+
+.video-showcase-section .text{
+    max-width:850px;
+    margin:0 auto 50px;
+    font-size:18px;
+    line-height:1.8;
+    color:#666;
+}
+
+.video-wrapper{
+    max-width:1000px;
+    margin:0 auto;
+}
+
+.video-wrapper video{
+    width:100%;
+    display:block;
+    border-radius:20px;
+    box-shadow:0 15px 40px rgba(0,0,0,0.15);
+}
+
+.cta-buttons{
+    margin-top:40px;
+}
+
+.cta-buttons .theme-btn{
+    margin:0 10px;
+}
+
+@media (max-width:768px){
+
+    .video-showcase-section{
+        padding:70px 0;
+    }
+
+    .video-showcase-section h2{
+        font-size:30px;
+    }
+
+    .video-showcase-section .text{
+        font-size:16px;
+        padding:0 15px;
+    }
+
+    .cta-buttons .theme-btn{
+        display:block;
+        margin:10px auto;
+        max-width:260px;
+    }
+}
+
+
+            .what-we-do .upper-box {
+                position: relative;
+                padding: 135px 0 0;
+                background: #ffffff;
+            }
+            .cap-1 {
+                width: 50%;
+                margin: 35px 0;
+                display: block;
+            }
+            .cap {
+                width: 55%;
+                margin: 0px 0;
+                display: block;
+            }
+            .hydrolink-section{
+                padding-top: 0px;
+                padding-bottom: 0px;
+                color: #ffffff;
+                max-width: 92vw;
+                float: none;
+                margin: auto;
+                width: 100%;
+                position: relative;
+            }
+            .hydrolink-section:before {
+                background: url(images/innerpage-hydrolink-bg.webp) no-repeat scroll 0 0;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                background-size: auto;
+                content: "";
+            }
+            .hy-container.large-container {
+                max-width: 1620px;
+            }
+
+
+.hy-container {
+    padding-top: 45px;
+    background-color: #13293d;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: -webkit-flex!important;
+    display: -ms-flexbox!important;
+    display: flex!important;
+    width: 100%;
+}
+.hy-wrap-columns{
+    flex-wrap: wrap;
+    margin-left: initial;
+    margin-right: initial;
+}
+
+.hy_column {
+    min-height: 1px;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+}
+.hy-col-4{
+    width: 33.33%;
+}
+.hy-col-container{
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.hy-title-wrap {
+    width: 100%;
+}
+.hy_title {
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    margin-bottom: 15px;
+    line-height: 1.18;
+}
+
+.hy_single_image {
+    max-width: 100%;
+    width: 100%;
+    line-height: 0;
+    right: 0;
+    top: 35px;
+    float: left;
+}
+
+.hy_single_image img{
+    position: relative;
+    z-index: 9;
+    margin-bottom: -94px;
+    max-width: 500px;
+    width: 100%;
+    display: inline-block;
+
+}
+.third-col {
+    padding-left: 30px;
+}
+
+.hy-content-btn{
+    font-weight: 700;
+    background: #f8f9fa;
+    color: #13293d;
+    padding: 15px 25px;
+}
+
+.hy-content h4{
+    margin-top: 0px;
+    color: #1d88d0; 
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.hy-content h6{
+    font-weight: 600;
+    margin: 0;
+    color: #ffffff;
+    font-size: 28px;
+}
+
+/*.hy-content h4{
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 45px;
+}*/
+
+.acc-inner-service{
+    font-size: 14px !important;
+    line-height: 24px !important;
+    padding: 10px 20px !important;
+}
+.service-arrow-size{
+    height: 45px !important;
+    font-size: 12px !important;
+    line-height: 12px !important;
+}
+
+.hy-em-ul{
+    padding-left: 30px;
+    margin-bottom: 45px;
+}
+
+.hy-em-ul li h2{
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+.hy-em-ul li h2:before{
+    content: '';
+    background:url('images/success.png');
+    background-size: 20px 20px;
+    position:absolute;
+    width:20px;
+    height:20px;
+    margin-left:-30px;
+    filter: invert(1);
+}
+
+@media (max-width: 1620px) {
+    .hy_title {
+        font-size: 32px;
+        margin-bottom: 15px;
+        line-height: 1.2;
+    }
+    .hydrolink-section:before {
+        background-size: contain;
+    }
+    .third-col {
+        padding-left: 60px;
+    }
+    .hy-content h4 {
+        font-size: 52px;
+    }
+    .hy-em-ul {
+        margin-bottom: 35px;
+    }
+
+}
+
+@media (max-width: 1560px) {
+    .cap-1 {
+        width: 50%;
+        margin: 25px 0;
+    }
+    .hy-em-ul li h2 {
+        font-weight: 500;
+        padding-bottom: 0px;
+        margin-bottom: 8px;
+    }
+    .hy-em-ul {
+        margin-bottom: 30px;
+    }
+
+}
+
+
+@media (max-width: 1450px) {
+    .hy_title {
+        font-size: 28px;
+        margin-bottom: 15px;
+        line-height: 1.4;
+    }
+    .cap-1 {
+        width: 50%;
+        margin: 25px 0;
+        display: block;
+    }
+    .third-col {
+        padding-left: 30px;
+    }
+    .hy-content h6 {
+        font-size: 24px;
+    }
+    .hy-content h4 {
+        font-size: 46px;
+    }
+    .hy-em-ul li h2 {
+        font-weight: 500;
+        font-size: 16px;
+    }
+    .hy-em-ul li h2:before {
+        background-size: 18px 18px;
+        width: 18px;
+        height: 18px;
+        margin-top: 2px;
+    }
+    .feature-boxes .service-inner {
+        padding: 0px 20px 30px;
+    }
+    .feature-boxes .content-title {
+        margin: 18px 0 10px;
+    }
+    .feature-boxes .content-desc {
+        font-size: 15px;
+    }
+    .feature-boxes .service-inner {
+        padding: 0px 15px 15px !important;
+    }
+    .feature-boxes {
+        padding: 49px 5px 0px !important;
+    }
+}
+
+@media (max-width: 1370px) {
+
+    .hy_title {
+        font-size: 26px;
+        line-height: 1.3;
+    }
+    .cap-1 {
+        margin: 30px 0;
+        display: block;
+    }
+    .hy_single_image img {
+        margin-bottom: -65px;
+    }
+    .hy-em-ul li h2 {
+        padding-bottom: 4px;
+    }
+    .hy-content h4 {
+        margin-bottom: 10px;
+        font-size: 42px;
+    }
+    
+
+.feature-boxes .content-title {
+    margin: 15px 0 10px;
+    padding: 0;
+    text-transform: none;
+    font-size: 18px;
+    color: #081739;
+    font-weight: 700;
+}
+.feature-boxes .content-title {
+    margin: 15px 0 10px;
+    font-size: 18px;
+}
+.feature-boxes .content-desc {
+    color: #1e1e1e;
+    font-size: 14px;
+}
+
+
+}
+
+
+@media (max-width: 460px) {
+    .hy-col-4 {
+        width: 100%;
+    }
+    .hydro-call-desk-btn {
+        display: none;
+    }
+    .hydrolink-section:before {
+        background-position: left bottom;
+        background-size: 130% 100% !important;
+    }
+    .hy_title {
+        text-align: center;
+        font-size: 23px;
+        line-height: 1.3;
+    }
+    .cap-1 {
+        width: 65%;
+        margin: 15px auto 15px;
+        display: block;
+    }
+.hy_single_image img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: -94px;
+    margin-bottom: -65px;
+}
+.third-col {
+    display: none;
+}
+.new-services .section-heading {
+    font-size: 28px !important;
+}
+.hot-water-logo{
+    border-bottom: 1px solid #e5e5e5;
+    border-right: none;
+}
+.hot-water-logos {
+    border-right: none;
+}
+.feature-boxes .content-title {
+    margin: 15px 0 10px;
+}
+.hydro-plumb-h4{
+    font-size: 28px;
+    line-height: 34px;
+}
+.why-waiting-content h4 {
+    text-align: center;
+    font-size: 32px;
+}
+.why-waiting-btn {
+    padding: 15px 85px 12px!important;
+    margin-right: 0px!important;
+    display: flex;
+    align-items: center;
+
+}
+.main_c {
+    display: none !important;
+    padding: 5px;
+    top: 340px;
+    right: -112px!important;
+    width: 250px;
+}
+.main_c span {
+    font-size: 15px;
+}
+.why-waiting-content {
+    margin-bottom: 30px;
+}
+
+}
+
+
+            #tab-1 .image-layer{background-image: url(img/kitchen-renovations-sydney.jpg);}
+            #tab-2 .image-layer{background-image: url(img/bathroom-renovations-sydney.jpg);}
+
+            #tab-3 .image-layer{background-image: url(img/hot-water-systems-installation-sydney.jpg);}
+            #tab-4 .image-layer{background-image: url(img/toilet-repairs-sydney.jpg);}
+
+            #tab-5 .image-layer{background-image: url(img/water-tanks-installation-sydney.jpg);}
+            #tab-6 .image-layer{background-image: url(img/drain-leakage-fixing-sydney.jpg);}
+
+            .hy-tab-aucon{padding: 25px 0;}
+        
+
+            .new-services{
+                padding: 80px 0 80px;
+                background: #f3f3f3;
+            }
+            .highlight-text {
+                left: 0;
+                margin: auto;
+                right: 0;
+                text-align: center;
+            }
+            .highlight-text {
+                color: #081739;
+                font-size: 120px;
+                font-weight: 900;
+                line-height: 1;
+                position: absolute;
+                text-transform: uppercase;
+                z-index: 0;
+                opacity: 0.03;
+                top: -60px;
+            }
+            .new-services .section-heading{
+                margin-top: 0;
+                position: relative;
+                padding-bottom: 15px;
+                color: #202020;
+                font-size: 40px;
+                font-weight: 800;
+                line-height: 1.25em;
+                text-align: center;
+            }
+            .new-services .section-heading span{
+                text-transform: uppercase;
+                text-align: center;
+                display: block;
+                font-size: 14px;
+                font-weight: 700;
+                color: #1d88d0;
+                line-height: 1.6em;
+                margin: 0 0 5px;
+            }
+            .new-services .section-heading:after {
+                left: 0;
+                right: 0;
+                margin: auto;
+            }
+            .new-services .section-heading:after {
+                width: 90px;
+                height: 4px;
+                content: "";
+                background: #1d88d0;
+                border-radius: 5px;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                display: block;
+            }
+            .feature-boxes{
+                padding: 49px 15px 0px;
+                margin-top: 30px;
+                box-shadow: none;
+                overflow: visible;
+                text-align: center;
+            }
+            .feature-boxes .service-inner {
+                box-shadow: 0px 0px 15px 0px rgba(1, 25, 59, 0.06);
+                background: #ffffff;
+                border-radius: 68px 15px 15px 15px;
+                display: table;
+                padding: 0px 24px 30px;
+                height: 100%;
+            }
+            .feature-boxes .content-image {
+                margin: 0 0 0;
+                background: url(assets/images/icons/hexagon.webp) no-repeat scroll 0 0;
+                width: 114px;
+                height: 98px;
+                margin: -49px auto 0;
+                display: table;
+                float: none;
+                line-height: 98px;
+            }
+            .feature-boxes .content-title {
+                margin: 25px 0 20px;
+                padding: 0;
+                text-transform: none;
+                font-size: 20px;
+                color: #081739;
+                font-weight: 700;
+            }
+            .feature-boxes .content-desc {
+                color: #1e1e1e;
+                font-size: 16px;
+                margin-bottom: 15px;
+                padding: 0;
+            }
+            .pad-5{
+                padding: 5px;
+            }
+            .fb-ser-img{
+                width: 55px;
+                height: 55px;
+                filter: invert();
+            }
+        
+
+            .hy-bg-light-sky{background-color: #f4faf8;}
+        
+
+.surburb_peace_outer {
+    box-shadow: 0 10px 20px rgba(220,230,233,.3);
+    margin-top: 85px;
+    border: 1px solid #f3efef;
+    margin-bottom: 100px;
+}
+
+.surburb_peace_outer {
+    background-color: #fff;
+    display: flex;
+    box-shadow: 0 35px 10px -35px rgba(0,0,0,.1), 0 45px 10px -25px rgba(0,0,0,.1);
+    border-radius: 4px;
+}
+.surburb_peace_left, .surburb_peace_right {
+    width: 50%;
+}
+
+.surburb_peace_left h2 {
+    color: #23282d;
+    padding-bottom: 15px;
+}
+.inr_txt64 {
+    font-size: 40px;
+    font-weight: 700;
+}
+.surburb_peace_left p {
+    font-size: 16px;
+    color: #1e1e1e;
+}
+
+.surburb_peace_left {
+    position: relative;
+    margin: 15px 100px 50px 65px;
+    padding: 50px 30px 25px 65px;
+}
+
+.surburb_peace_right {
+    width: calc(50% - 0px);
+}
+
+.surburb_peace_right img {
+    height: 707px;
+    object-position: bottom;
+    margin-bottom: 0px;
+    object-fit: contain;
+    width: 100%;
+}
+
+.ac-btn-group{
+    margin-top: 30px;
+    display: flex;
+}
+
+
+@media screen and (max-width: 767px){
+.surburb_peace_outer {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: none;
+    display: block;
+}
+.surburb_peace_left {
+    padding: 0px 50px 0 15px;
+    margin: 15px 100px 50px 10px;
+}
+.surburb_peace_left, .surburb_peace_right {
+    width: 100%;
+}
+.surburb_peace_right {
+    width: 100%;
+}
+.surburb_peace_right img {
+    height: 332px;
+}
+.surburb_peace_right img {
+    margin-bottom: -3px;
+    border-radius: 0 0 4px 4px;
+}
+.surburb_peace_left h2 {padding-bottom: 5px;}
+.inr_txt64 {font-size: 26px;}
+.ac-mob-none{display: none;}
+.brand-icon-50{width: 50%;}
+.why-block-three {width: 50%;}
+.hot-water-logos img {max-width: 150px;}
+.hot-water-logo img {max-width: 150px;}
+.hot-water-products {padding: 20px 0 40px;}
+
+
+
+
+
+
+}
+
+
+
+
+
+/*********** Marquee Galley Section ***************/
+.container-fluid.ngp {
+    padding: 0px;
+    margin: 0px;
+}
+.row.ngp {
+    margin: 0px;
+    padding: 0px;
+}
+.col-md-12.ngp {
+    padding: 0px;
+    margin: 0px;
+}
+.gallery-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    overflow: hidden;
+}
+.gallery-row img {
+    width: 140px;
+    height: 140px !important;
+    padding: 6px 3px;
+    object-fit: cover;
+}
+
+
+            .call-to-two .image-layer{background-image: url(img/pic-3.png);}
+        
+
+            .hy-request-2{margin-bottom: 40px;}
+        
+
+            .hy-color-white{color: #fff;}
+            .main_c span {color: #fff;}
+        
 </style>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -105,7 +803,26 @@ function gtag_report_conversion(url) {
         <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" />
         <link href="images/favicon.png" rel="icon" type="image/x-icon" />
         <link href="assets/css/main.min.css" rel="stylesheet" />
-                 <script src="https://www.google.com/recaptcha/api.js" async defer> </script> 
+                 <!-- Google reCAPTCHA optimized: loads on form interaction/scroll -->
+    <script>
+      function initRecaptcha() {
+        if (window._recaptcha_loaded) return;
+        window._recaptcha_loaded = true;
+        var s = document.createElement('script');
+        s.src = 'https://www.google.com/recaptcha/api.js';
+        s.async = true;
+        s.defer = true;
+        document.head.appendChild(s);
+      }
+      var quoteForm = document.getElementById('mainSliderForm');
+      if (quoteForm) {
+        quoteForm.addEventListener('focusin', initRecaptcha, { once: true });
+        quoteForm.addEventListener('touchstart', initRecaptcha, { passive: true, once: true });
+      }
+      ['scroll', 'mousemove', 'click', 'keydown'].forEach(function(e) {
+        window.addEventListener(e, initRecaptcha, { passive: true, once: true });
+      });
+    </script> 
         <!-- Meta Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -125,10 +842,7 @@ src="https://www.facebook.com/tr?id=1492995221335210&ev=PageView&noscript=1"
 <!-- End Meta Pixel Code -->
 
         <!-- Non-blocking Google Fonts with font-display: swap -->
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Saira+Stencil+One&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
-        <noscript>
-            <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Saira+Stencil+One&display=swap" rel="stylesheet" />
-        </noscript>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Saira+Stencil+One&display=swap" rel="stylesheet" />
         <style>
         .hydrolink-faq {
             overflow: auto;
@@ -488,11 +1202,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <!--  ClickCease.com tracking-->
-      <script type='text/javascript'>var script = document.createElement('script');
-      script.async = true; script.type = 'text/javascript';
-      var target = 'https://www.clickcease.com/monitor/stat.js';
-      script.src = target;var elem = document.head;elem.appendChild(script);
-      </script>
+      <script type="text/javascript">
+window.addEventListener('load', function() {
+  var script = document.createElement('script');
+  script.async = true;
+  script.type = 'text/javascript';
+  script.src = 'https://www.clickcease.com/monitor/stat.js';
+  document.head.appendChild(script);
+}, { passive: true, once: true });
+</script>
       <noscript>
       <a href='https://www.clickcease.com' rel='nofollow'><img src='https://monitor.clickcease.com' alt='ClickCease'/></a>
       </noscript>
@@ -1071,7 +1789,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             Watch our experienced team deliver reliable plumbing solutions for homes and businesses across Sydney. From emergency plumbing and blocked drains to hot water systems, gas fitting, maintenance, and repairs, we are committed to quality workmanship and exceptional customer service.
         </div>
     </div>
-<video controls loop playsinline>
+<video preload="none" controls loop playsinline>
     <source src="https://hydrolinkplumbing.com.au/images/gallery/animation.mp4" type="video/mp4">
 </video>
     </div>
@@ -1091,77 +1809,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </section>
 
-<style>
-.video-showcase-section{
-    padding:100px 0;
-    text-align:center;
-}
 
-.video-showcase-section .subtitle{
-    color:#00a3e0;
-    font-size:16px;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:1px;
-    margin-bottom:10px;
-}
-
-.video-showcase-section h2{
-    font-size:42px;
-    line-height:1.2;
-    margin-bottom:20px;
-}
-
-.video-showcase-section .text{
-    max-width:850px;
-    margin:0 auto 50px;
-    font-size:18px;
-    line-height:1.8;
-    color:#666;
-}
-
-.video-wrapper{
-    max-width:1000px;
-    margin:0 auto;
-}
-
-.video-wrapper video{
-    width:100%;
-    display:block;
-    border-radius:20px;
-    box-shadow:0 15px 40px rgba(0,0,0,0.15);
-}
-
-.cta-buttons{
-    margin-top:40px;
-}
-
-.cta-buttons .theme-btn{
-    margin:0 10px;
-}
-
-@media (max-width:768px){
-
-    .video-showcase-section{
-        padding:70px 0;
-    }
-
-    .video-showcase-section h2{
-        font-size:30px;
-    }
-
-    .video-showcase-section .text{
-        font-size:16px;
-        padding:0 15px;
-    }
-
-    .cta-buttons .theme-btn{
-        display:block;
-        margin:10px auto;
-        max-width:260px;
-    }
-}
-</style>
 
         
 
@@ -2009,374 +2657,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
 
-        <style type="text/css" media="screen">
-            .what-we-do .upper-box {
-                position: relative;
-                padding: 135px 0 0;
-                background: #ffffff;
-            }
-            .cap-1 {
-                width: 50%;
-                margin: 35px 0;
-                display: block;
-            }
-            .cap {
-                width: 55%;
-                margin: 0px 0;
-                display: block;
-            }
-            .hydrolink-section{
-                padding-top: 0px;
-                padding-bottom: 0px;
-                color: #ffffff;
-                max-width: 92vw;
-                float: none;
-                margin: auto;
-                width: 100%;
-                position: relative;
-            }
-            .hydrolink-section:before {
-                background: url(images/innerpage-hydrolink-bg.webp) no-repeat scroll 0 0;
-                position: absolute;
-                top: 0;
-                bottom: 0;
-                left: 0;
-                right: 0;
-                background-size: auto;
-                content: "";
-            }
-            .hy-container.large-container {
-                max-width: 1620px;
-            }
-
-
-.hy-container {
-    padding-top: 45px;
-    background-color: #13293d;
-    padding-left: 20px;
-    padding-right: 20px;
-    display: -webkit-flex!important;
-    display: -ms-flexbox!important;
-    display: flex!important;
-    width: 100%;
-}
-.hy-wrap-columns{
-    flex-wrap: wrap;
-    margin-left: initial;
-    margin-right: initial;
-}
-
-.hy_column {
-    min-height: 1px;
-    position: relative;
-    padding-right: 15px;
-    padding-left: 15px;
-    float: left;
-}
-.hy-col-4{
-    width: 33.33%;
-}
-.hy-col-container{
-    align-content: center;
-    justify-content: center;
-    align-items: center;
-}
-.hy-title-wrap {
-    width: 100%;
-}
-.hy_title {
-    font-weight: 700;
-    color: #ffffff;
-    font-size: 36px;
-    margin-bottom: 15px;
-    line-height: 1.18;
-}
-
-.hy_single_image {
-    max-width: 100%;
-    width: 100%;
-    line-height: 0;
-    right: 0;
-    top: 35px;
-    float: left;
-}
-
-.hy_single_image img{
-    position: relative;
-    z-index: 9;
-    margin-bottom: -94px;
-    max-width: 500px;
-    width: 100%;
-    display: inline-block;
-
-}
-.third-col {
-    padding-left: 30px;
-}
-
-.hy-content-btn{
-    font-weight: 700;
-    background: #f8f9fa;
-    color: #13293d;
-    padding: 15px 25px;
-}
-
-.hy-content h4{
-    margin-top: 0px;
-    color: #1d88d0; 
-    font-size: 60px;
-    font-weight: 900;
-}
-
-.hy-content h6{
-    font-weight: 600;
-    margin: 0;
-    color: #ffffff;
-    font-size: 28px;
-}
-
-/*.hy-content h4{
-    font-weight: 700;
-    font-size: 36px;
-    margin-bottom: 45px;
-}*/
-
-.acc-inner-service{
-    font-size: 14px !important;
-    line-height: 24px !important;
-    padding: 10px 20px !important;
-}
-.service-arrow-size{
-    height: 45px !important;
-    font-size: 12px !important;
-    line-height: 12px !important;
-}
-
-.hy-em-ul{
-    padding-left: 30px;
-    margin-bottom: 45px;
-}
-
-.hy-em-ul li h2{
-    font-weight: 600;
-    font-size: 18px;
-    color: #fff;
-    padding-bottom: 0px;
-    margin-bottom: 10px;
-}
-.hy-em-ul li h2:before{
-    content: '';
-    background:url('images/success.png');
-    background-size: 20px 20px;
-    position:absolute;
-    width:20px;
-    height:20px;
-    margin-left:-30px;
-    filter: invert(1);
-}
-
-@media (max-width: 1620px) {
-    .hy_title {
-        font-size: 32px;
-        margin-bottom: 15px;
-        line-height: 1.2;
-    }
-    .hydrolink-section:before {
-        background-size: contain;
-    }
-    .third-col {
-        padding-left: 60px;
-    }
-    .hy-content h4 {
-        font-size: 52px;
-    }
-    .hy-em-ul {
-        margin-bottom: 35px;
-    }
-
-}
-
-@media (max-width: 1560px) {
-    .cap-1 {
-        width: 50%;
-        margin: 25px 0;
-    }
-    .hy-em-ul li h2 {
-        font-weight: 500;
-        padding-bottom: 0px;
-        margin-bottom: 8px;
-    }
-    .hy-em-ul {
-        margin-bottom: 30px;
-    }
-
-}
-
-
-@media (max-width: 1450px) {
-    .hy_title {
-        font-size: 28px;
-        margin-bottom: 15px;
-        line-height: 1.4;
-    }
-    .cap-1 {
-        width: 50%;
-        margin: 25px 0;
-        display: block;
-    }
-    .third-col {
-        padding-left: 30px;
-    }
-    .hy-content h6 {
-        font-size: 24px;
-    }
-    .hy-content h4 {
-        font-size: 46px;
-    }
-    .hy-em-ul li h2 {
-        font-weight: 500;
-        font-size: 16px;
-    }
-    .hy-em-ul li h2:before {
-        background-size: 18px 18px;
-        width: 18px;
-        height: 18px;
-        margin-top: 2px;
-    }
-    .feature-boxes .service-inner {
-        padding: 0px 20px 30px;
-    }
-    .feature-boxes .content-title {
-        margin: 18px 0 10px;
-    }
-    .feature-boxes .content-desc {
-        font-size: 15px;
-    }
-    .feature-boxes .service-inner {
-        padding: 0px 15px 15px !important;
-    }
-    .feature-boxes {
-        padding: 49px 5px 0px !important;
-    }
-}
-
-@media (max-width: 1370px) {
-
-    .hy_title {
-        font-size: 26px;
-        line-height: 1.3;
-    }
-    .cap-1 {
-        margin: 30px 0;
-        display: block;
-    }
-    .hy_single_image img {
-        margin-bottom: -65px;
-    }
-    .hy-em-ul li h2 {
-        padding-bottom: 4px;
-    }
-    .hy-content h4 {
-        margin-bottom: 10px;
-        font-size: 42px;
-    }
-    
-
-.feature-boxes .content-title {
-    margin: 15px 0 10px;
-    padding: 0;
-    text-transform: none;
-    font-size: 18px;
-    color: #081739;
-    font-weight: 700;
-}
-.feature-boxes .content-title {
-    margin: 15px 0 10px;
-    font-size: 18px;
-}
-.feature-boxes .content-desc {
-    color: #1e1e1e;
-    font-size: 14px;
-}
-
-
-}
-
-
-@media (max-width: 460px) {
-    .hy-col-4 {
-        width: 100%;
-    }
-    .hydro-call-desk-btn {
-        display: none;
-    }
-    .hydrolink-section:before {
-        background-position: left bottom;
-        background-size: 130% 100% !important;
-    }
-    .hy_title {
-        text-align: center;
-        font-size: 23px;
-        line-height: 1.3;
-    }
-    .cap-1 {
-        width: 65%;
-        margin: 15px auto 15px;
-        display: block;
-    }
-.hy_single_image img {
-    display: block;
-    margin: 0 auto;
-    margin-bottom: -94px;
-    margin-bottom: -65px;
-}
-.third-col {
-    display: none;
-}
-.new-services .section-heading {
-    font-size: 28px !important;
-}
-.hot-water-logo{
-    border-bottom: 1px solid #e5e5e5;
-    border-right: none;
-}
-.hot-water-logos {
-    border-right: none;
-}
-.feature-boxes .content-title {
-    margin: 15px 0 10px;
-}
-.hydro-plumb-h4{
-    font-size: 28px;
-    line-height: 34px;
-}
-.why-waiting-content h4 {
-    text-align: center;
-    font-size: 32px;
-}
-.why-waiting-btn {
-    padding: 15px 85px 12px!important;
-    margin-right: 0px!important;
-    display: flex;
-    align-items: center;
-
-}
-.main_c {
-    display: none !important;
-    padding: 5px;
-    top: 340px;
-    right: -112px!important;
-    width: 250px;
-}
-.main_c span {
-    font-size: 15px;
-}
-.why-waiting-content {
-    margin-bottom: 30px;
-}
-
-}
-</style>
+        
 
     
         <div class="hydrolink-section">
@@ -2429,20 +2710,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-        <style type="text/css" media="screen">
-            #tab-1 .image-layer{background-image: url(img/kitchen-renovations-sydney.jpg);}
-            #tab-2 .image-layer{background-image: url(img/bathroom-renovations-sydney.jpg);}
+        
 
-            #tab-3 .image-layer{background-image: url(img/hot-water-systems-installation-sydney.jpg);}
-            #tab-4 .image-layer{background-image: url(img/toilet-repairs-sydney.jpg);}
-
-            #tab-5 .image-layer{background-image: url(img/water-tanks-installation-sydney.jpg);}
-            #tab-6 .image-layer{background-image: url(img/drain-leakage-fixing-sydney.jpg);}
-
-            .hy-tab-aucon{padding: 25px 0;}
-        </style>
-
-<video autoplay="autoplay" muted="muted" loop="loop" playsinline preload="auto" style="width:100%;height:auto;border-radius:15px;display:block;">
+<video autoplay="autoplay" muted="muted" loop="loop" playsinline preload="none" style="width:100%;height:auto;border-radius:15px;display:block;">
     <source src="animation.mp4" type="video/mp4">
 </video>
 
@@ -3238,112 +3508,7 @@ With over a decade of experience, we understand the challenges involved in <stro
             </div>
         </section>
 
-        <style type="text/css" media="screen">
-            .new-services{
-                padding: 80px 0 80px;
-                background: #f3f3f3;
-            }
-            .highlight-text {
-                left: 0;
-                margin: auto;
-                right: 0;
-                text-align: center;
-            }
-            .highlight-text {
-                color: #081739;
-                font-size: 120px;
-                font-weight: 900;
-                line-height: 1;
-                position: absolute;
-                text-transform: uppercase;
-                z-index: 0;
-                opacity: 0.03;
-                top: -60px;
-            }
-            .new-services .section-heading{
-                margin-top: 0;
-                position: relative;
-                padding-bottom: 15px;
-                color: #202020;
-                font-size: 40px;
-                font-weight: 800;
-                line-height: 1.25em;
-                text-align: center;
-            }
-            .new-services .section-heading span{
-                text-transform: uppercase;
-                text-align: center;
-                display: block;
-                font-size: 14px;
-                font-weight: 700;
-                color: #1d88d0;
-                line-height: 1.6em;
-                margin: 0 0 5px;
-            }
-            .new-services .section-heading:after {
-                left: 0;
-                right: 0;
-                margin: auto;
-            }
-            .new-services .section-heading:after {
-                width: 90px;
-                height: 4px;
-                content: "";
-                background: #1d88d0;
-                border-radius: 5px;
-                position: absolute;
-                bottom: 0;
-                left: 0;
-                display: block;
-            }
-            .feature-boxes{
-                padding: 49px 15px 0px;
-                margin-top: 30px;
-                box-shadow: none;
-                overflow: visible;
-                text-align: center;
-            }
-            .feature-boxes .service-inner {
-                box-shadow: 0px 0px 15px 0px rgba(1, 25, 59, 0.06);
-                background: #ffffff;
-                border-radius: 68px 15px 15px 15px;
-                display: table;
-                padding: 0px 24px 30px;
-                height: 100%;
-            }
-            .feature-boxes .content-image {
-                margin: 0 0 0;
-                background: url(assets/images/icons/hexagon.webp) no-repeat scroll 0 0;
-                width: 114px;
-                height: 98px;
-                margin: -49px auto 0;
-                display: table;
-                float: none;
-                line-height: 98px;
-            }
-            .feature-boxes .content-title {
-                margin: 25px 0 20px;
-                padding: 0;
-                text-transform: none;
-                font-size: 20px;
-                color: #081739;
-                font-weight: 700;
-            }
-            .feature-boxes .content-desc {
-                color: #1e1e1e;
-                font-size: 16px;
-                margin-bottom: 15px;
-                padding: 0;
-            }
-            .pad-5{
-                padding: 5px;
-            }
-            .fb-ser-img{
-                width: 55px;
-                height: 55px;
-                filter: invert();
-            }
-        </style>
+        
 
 
 
@@ -3464,9 +3629,7 @@ With over a decade of experience, we understand the challenges involved in <stro
         </div>
 
 
-        <style type="text/css" media="screen">
-            .hy-bg-light-sky{background-color: #f4faf8;}
-        </style>
+        
 
 
         <div class="container-fluid dOff hy-bg-light-sky">
@@ -3511,104 +3674,7 @@ With over a decade of experience, we understand the challenges involved in <stro
 
 
 
-<style type="text/css" media="screen">
-.surburb_peace_outer {
-    box-shadow: 0 10px 20px rgba(220,230,233,.3);
-    margin-top: 85px;
-    border: 1px solid #f3efef;
-    margin-bottom: 100px;
-}
 
-.surburb_peace_outer {
-    background-color: #fff;
-    display: flex;
-    box-shadow: 0 35px 10px -35px rgba(0,0,0,.1), 0 45px 10px -25px rgba(0,0,0,.1);
-    border-radius: 4px;
-}
-.surburb_peace_left, .surburb_peace_right {
-    width: 50%;
-}
-
-.surburb_peace_left h2 {
-    color: #23282d;
-    padding-bottom: 15px;
-}
-.inr_txt64 {
-    font-size: 40px;
-    font-weight: 700;
-}
-.surburb_peace_left p {
-    font-size: 16px;
-    color: #1e1e1e;
-}
-
-.surburb_peace_left {
-    position: relative;
-    margin: 15px 100px 50px 65px;
-    padding: 50px 30px 25px 65px;
-}
-
-.surburb_peace_right {
-    width: calc(50% - 0px);
-}
-
-.surburb_peace_right img {
-    height: 707px;
-    object-position: bottom;
-    margin-bottom: 0px;
-    object-fit: contain;
-    width: 100%;
-}
-
-.ac-btn-group{
-    margin-top: 30px;
-    display: flex;
-}
-
-
-@media screen and (max-width: 767px){
-.surburb_peace_outer {
-    margin-top: 30px;
-    margin-bottom: 20px;
-    border: none;
-    display: block;
-}
-.surburb_peace_left {
-    padding: 0px 50px 0 15px;
-    margin: 15px 100px 50px 10px;
-}
-.surburb_peace_left, .surburb_peace_right {
-    width: 100%;
-}
-.surburb_peace_right {
-    width: 100%;
-}
-.surburb_peace_right img {
-    height: 332px;
-}
-.surburb_peace_right img {
-    margin-bottom: -3px;
-    border-radius: 0 0 4px 4px;
-}
-.surburb_peace_left h2 {padding-bottom: 5px;}
-.inr_txt64 {font-size: 26px;}
-.ac-mob-none{display: none;}
-.brand-icon-50{width: 50%;}
-.why-block-three {width: 50%;}
-.hot-water-logos img {max-width: 150px;}
-.hot-water-logo img {max-width: 150px;}
-.hot-water-products {padding: 20px 0 40px;}
-
-
-
-
-
-
-}
-
-
-
-</style>
 
 
         
@@ -3727,33 +3793,7 @@ With over a decade of experience, we understand the challenges involved in <stro
             </div>
         </section>
 
-<style type="text/css" media="screen">
-/*********** Marquee Galley Section ***************/
-.container-fluid.ngp {
-    padding: 0px;
-    margin: 0px;
-}
-.row.ngp {
-    margin: 0px;
-    padding: 0px;
-}
-.col-md-12.ngp {
-    padding: 0px;
-    margin: 0px;
-}
-.gallery-row {
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    overflow: hidden;
-}
-.gallery-row img {
-    width: 140px;
-    height: 140px !important;
-    padding: 6px 3px;
-    object-fit: cover;
-}
-</style>
+
 
 <!-- Gallery Scroll Section -->
 <section class="welco-sec bg-tp">
@@ -4141,9 +4181,7 @@ With over a decade of experience, we understand the challenges involved in <stro
             </div>
         </section>
 
-        <style type="text/css" media="screen">
-            .call-to-two .image-layer{background-image: url(img/pic-3.png);}
-        </style>
+        
 
         <section class="call-to-two dOff">
             <div class="image-layer" loading="lazy"></div>
@@ -4269,9 +4307,7 @@ With over a decade of experience, we understand the challenges involved in <stro
         </section>
 
 
-        <style type="text/css" media="screen">
-            .hy-request-2{margin-bottom: 40px;}
-        </style>
+        
 
         <section class="contact-section dOff" id="freequote">
             <div class="pattern-layer"></div>
@@ -4625,7 +4661,7 @@ With over a decade of experience, we understand the challenges involved in <stro
 
                     <div class="col-lg-6 video-container">
                         <!--<img src="img/plumbers-sydney.png" data-src="img/plumbers-sydney.png" alt="Sydney plumbers" class="lazyload"   loading="lazy" / decoding="async">-->
-                        <video autoplay muted playsinline loop controls width="1000" height="500">
+                        <video preload="none" autoplay muted playsinline loop controls width="1000" height="500">
                           <source src="img/ser/WhatsApp Video 2025-09-27 at 4.00.55 PM.mp4" type="video/mp4">
                          
                         </video>
@@ -4634,10 +4670,7 @@ With over a decade of experience, we understand the challenges involved in <stro
             </div>
         </div>
 
-        <style type="text/css" media="screen">
-            .hy-color-white{color: #fff;}
-            .main_c span {color: #fff;}
-        </style>
+        
 
         <div class="sidenav dOff" id="mySidenav">
             <a class="closebtn" href="javascript:void(0);" onclick="closeNav()">&times;</a>
@@ -5036,18 +5069,29 @@ With over a decade of experience, we understand the challenges involved in <stro
 		
 		
 		
-<!-- Smartsupp Live Chat script -->
+<!-- Smartsupp Live Chat script (interaction-optimized) -->
 <script type="text/javascript">
-var _smartsupp = _smartsupp || {};
-_smartsupp.key = '3aa38f91eb2772f0dcfb29ade03ee65a24927a50';
-window.smartsupp||(function(d) {
-  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-  c.type='text/javascript';c.charset='utf-8';c.async=true;
-  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
-})(document);
+function loadSmartsupp() {
+  if (window._smartsupp_loaded) return;
+  window._smartsupp_loaded = true;
+  var _smartsupp = window._smartsupp = window._smartsupp || {};
+  _smartsupp.key = '3aa38f91eb2772f0dcfb29ade03ee65a24927a50';
+  window.smartsupp || (function(d) {
+    var s, c, o = window.smartsupp = function() { o._.push(arguments); };
+    o._ = [];
+    s = d.getElementsByTagName('script')[0];
+    c = d.createElement('script');
+    c.type = 'text/javascript';
+    c.charset = 'utf-8';
+    c.async = true;
+    c.src = 'https://www.smartsuppchat.com/loader.js?';
+    s.parentNode.insertBefore(c, s);
+  })(document);
+}
+['scroll', 'mousemove', 'touchstart', 'click', 'keydown'].forEach(function(e) {
+  window.addEventListener(e, loadSmartsupp, { passive: true, once: true });
+});
 </script>
-<noscript> Powered by <a href="https://www.smartsupp.com" target="_blank">Smartsupp</a></noscript>
 
 </body>
 </html>
