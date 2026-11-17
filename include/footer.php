@@ -1,0 +1,282 @@
+
+        
+        <section class="call-to-action">
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <div class="title-col col-xl-7 col-lg-12 col-md-12">
+                        <div class="inner">
+                            <h4>Hire <a href="https://www.hydrolinkplumbing.com.au/plumber-sydney.html" style="color:#fff"><strong>Best Plumber In Sydney</strong></a> Serving 24/7 </h4>
+                        </div>
+                    </div>
+                    <div class="info-col col-xl-5 col-lg-12 col-md-12">
+                        <div class="inner clearfix">
+                            <ul class="info clearfix">
+                                <li><a href="appointment.html"><span>Appointment</span> <i class="arrow flaticon-play-button-1"></i></a></li>
+                                <li><a href="tel:0433629517"><span>0433 629 517</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+        
+        <footer class="main-footer">
+            
+            <div class="upper-section">
+                <div class="auto-container">
+                    <div class="upper">
+                        <div class="inner">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img class="foot-logo-img" src="images/sydney-plumber-hydrolink-plumbing.png" alt="Sydney Plumber Hydrolink Plumbing" title="Sydney Plumber Hydrolink plumbing">
+                                </a>
+                            </div>
+                            <div class="clearfix">
+                                <div class="text-box">
+                                    <div class="text"> <strong><a href="https://www.hydrolinkplumbing.com.au/plumber-sydney.html">Hydrolink plumbing</a></strong> specialises in every aspect of plumbing and gas services, our <strong>qualified technicians</strong> are the leader in water management solutions ... <a href="about.html" class="theme-btn">More About Us <i class="arrow flaticon-play-button-1"></i></a>
+                                    </div>
+                                </div>
+                                <div class="social">
+                                    <ul class="clearfix">
+                                        
+                                        
+                                        <li><a href="https://www.facebook.com/hydrolinkplumbing/" target="_blank"><span class="fa fa-facebook-f"></span></a></li>
+
+                                        <li><a href="https://www.instagram.com/hydrolinkplumbing/" target="_blank"><span class="fab fa-instagram"></span></a></li>
+
+                                        <li><a href="https://www.youtube.com/channel/UCC-cqGEITBx8v3pJaRrqz6g" target="_blank"><span class="fab fa-youtube"></span></a></li>
+                                        
+                                        <li><a href="https://twitter.com/hydrolinkplumbi/" target="_blank"><span class="fa fa-twitter"></span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="widgets-section">
+                        <div class="row clearfix">
+                           
+                            <div class="column col-xl-9 col-lg-8 col-md-12 col-sm-12">
+                                <div class="footer-widget services-widget">
+                                    <div class="widget-title">
+                                        <h3>Local Sydney Plumber Service Areas</h3>
+                                    </div>
+                                    <div class="widget-content">
+                                        <div class="row clearfix">
+                                            <div class="col-xl-3 col-lg-12 col-md-3 col-sm-12">
+                                                <ul>
+                                                <li><a href="plumber-sydney.html" title="Plumber Sydney">Plumber Sydney</a></li>
+                                            <li><a href="plumber-richmond-st.html" title="Richmond St">Plumber Richmond St</a></li>
+                                            <li><a href="plumber-wentworthville.html" title="Wentworthville">Plumber Wentworthville</a></li>
+                                            <li><a href="plumber-south-wentworthville.html" title="South Wentworthville">Plumber South Wentworthville</a></li>
+                                            <li><a href="plumber-bankstown.html" title="Bankstown">Plumber Bankstown</a></li>
+                                            <li><a href="plumber-merrylands.html" title="Merrylands">Plumber Merrylands</a></li>
+                                            <li><a href="plumber-merrylands-west.html" title="Merrylands West">Plumber Merrylands West</a></li>
+                                            <li><a href="plumber-guildford-west.html" title="Guildford West">Plumber Guildford West</a></li>
+                                            <li><a href="plumber-guildford.html" title="Guildford">Plumber Guildford</a></li>
+                                            <li><a href="plumber-old-guildford.html" title="Old Guildford">Plumber Old Guildford</a></li>
+                                            <li><a href="plumber-woodville.html" title="Woodville">Plumber Woodville</a></li>
+                                            <li><a href="plumber-fairfield.html" title="Fairfield">Plumber Fairfield</a></li>
+                                            <li><a href="plumber-cabramatta.html" title="Cabramatta">Plumber Cabramatta</a></li>
+                                            <li><a href="plumber-cabramatta-west.html" title="Cabramatta West">Plumber Cabramatta West</a></li>
+                                            <li><a href="plumber-carramar.html" title="Carramar">Plumber Carramar</a></li>
+                                            <li><a href="plumber-liverpool.html" title="Liverpool">Plumber Liverpool</a></li>
+                                            <li><a href="plumber-lansvale.html" title="Lansvale">Plumber Lansvale</a></li>
+                                            <li><a href="plumber-lansdowne.html" title="Lansdowne">Plumber Lansdowne</a></li>
+                                            <li><a href="plumber-abbotsbury.html" title="Abbotsbury">Plumber Abbotsbury</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-xl-3 col-lg-12 col-md-3 col-sm-12">
+                                                <ul>
+                                            <li><a href="plumber-cecil-hills.html" title="Cecil Hills">Plumber Cecil Hills</a></li>
+                                            <li><a href="plumber-bonnyrigg.html" title="Bonnyrigg">Plumber Bonnyrigg</a></li>
+                                            <li><a href="plumber-eastern-creek.html" title="Eastern Creek">Plumber Eastern Creek</a></li>
+                                            <li><a href="plumber-huntingwood.html" title="Huntingwood">Plumber Huntingwood</a></li>
+                                            <li><a href="plumber-minchinbury.html" title="Minchinbury">Plumber Minchinbury</a></li>
+                                            <li><a href="plumber-rooty-hill.html" title="Rooty Hill">Plumber Rooty Hill</a></li>
+                                            <li><a href="plumber-austral.html" title="Austral">Plumber Austral</a></li>
+                                            <li><a href="plumber-bringelly.html" title="Bringelly">Plumber Bringelly</a></li>
+                                            <li><a href="plumber-rossmore.html" title="Rossmore">Plumber Rossmore</a></li>
+                                            <li><a href="plumber-gregory-hills.html" title="Gregory Hills">Plumber Gregory Hills</a></li>
+                                            <li><a href="plumber-gledswood-hills.html" title="Gledswood Hills">Plumber Gledswood Hills</a></li>
+                                            <li><a href="plumber-cobbitty.html" title="Cobbitty">Plumber Cobbitty</a></li>
+                                            <li><a href="plumber-mulgoa.html" title="Mulgoa">Plumber Mulgoa</a></li>
+                                            <li><a href="plumber-wallacia.html" title="Wallacia">Plumber Wallacia</a></li>
+                                            <li><a href="plumber-warragamba.html" title="Warragamba">Plumber Warragamba</a></li>
+                                            <li><a href="plumber-jamisontown.html" title="Jamisontown">Plumber Jamisontown</a></li>
+                                            <li><a href="plumber-penrith.html" title="Penrith">Plumber Penrith</a></li>
+                                            <li><a href="plumber-kingswood.html" title="Kingswood">Plumber Kingswood</a></li>
+                                            <li><a href="sydney-plumber.html" title="Sydney Plumber">Sydney Plumber</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-xl-3 col-lg-12 col-md-3 col-sm-12">
+                                                <ul>
+                                                    <li><a href="plumber-werrington.html" title="Werrington">Plumber Werrington</a></li>
+                                            <li><a href="plumber-south-windsor.html" title="South Windsor">Plumber South Windsor</a></li>
+                                            <li><a href="plumber-windsor.html" title="Windsor">Plumber Windsor</a></li>
+                                            <li><a href="plumber-grose-wold.html" title="Grose Wold">Plumber Grose Wold</a></li>
+                                            <li><a href="plumber-grose-vale.html" title="Grose Vale">Plumber Grose Vale</a></li>
+                                            <li><a href="plumber-kurmond.html" title="Kurmond">Plumber Kurmond</a></li>
+                                            <li><a href="plumber-kurrajong-hills.html" title="Kurrajong Hills">Plumber Kurrajong Hills</a></li>
+                                            <li><a href="plumber-sackville.html" title="Sackville">Plumber Sackville</a></li>
+                                            <li><a href="plumber-south-maroota.html" title="South Maroota">Plumber South Maroota</a></li>
+                                            <li><a href="plumber-ebenezer.html" title="Ebenezer">Plumber Ebenezer</a></li>
+                                            <li><a href="plumber-wilberforce.html" title="Wilberforce">Plumber Wilberforce</a></li>
+                                            <li><a href="plumber-camberland-reach.html" title="Camberland Reach">Plumber Camberland Reach</a></li>
+                                            <li><a href="plumber-maroota.html" title="Maroota">Plumber Maroota</a></li>
+                                            <li><a href="plumber-blacktown.html" title="Blacktown">Plumber Blacktown</a></li>
+                                            <li><a href="plumber-seven-hills.html" title="Seven Hills">Plumber Seven Hills</a></li>
+                                            <li><a href="plumber-toongabbie.html" title="Toongabbie">Plumber Toongabbie</a></li>
+                                            <li><a href="plumber-northmead.html" title="Northmead">Plumber Northmead</a></li>
+                                            <li><a href="plumber-parramatta.html" title="Parramatta">Plumber Parramatta</a></li>
+                                            <li><a href="plumber-bungarribee.html" title="Bungarribee">Plumber Bungarribee</a></li>
+                                            
+                                                </ul>
+                                            </div>
+                                            <div class="col-xl-3 col-lg-12 col-md-3 col-sm-12">
+                                                <ul>
+                                            <li><a href="plumber-carlingford.html" title="Carlingford">Plumber Carlingford</a></li>
+                                            <li><a href="plumber-epping.html" title="Epping">Plumber Epping</a></li>
+                                            <li><a href="plumber-eastwood.html" title="Eastwood">Plumber Eastwood</a></li>
+                                            <li><a href="plumber-north-ryde.html" title="North Ryde">Plumber North Ryde</a></li>
+                                            <li><a href="plumber-denistone.html" title="Denistone">Plumber Denistone</a></li>
+                                            <li><a href="plumber-castle-hill.html" title="Castle Hill">Plumber Castle Hill</a></li>
+                                            <li><a href="plumber-chatswood.html" title="Chatswood">Plumber Chatswood</a></li>
+                                            <li><a href="plumber-killara.html" title="Killara">Plumber Killara</a></li>
+                                            <li><a href="plumber-gordon.html" title="Gordon">Plumber Gordon</a></li>
+                                            <li><a href="plumber-wahroonga.html" title="Wahroonga">Plumber Wahroonga</a></li>
+                                            <li><a href="plumber-hornsby.html" title="Hornsby">Plumber Hornsby</a></li>
+                                            <li><a href="plumber-asquith.html" title="Asquith">Plumber Asquith</a></li>
+                                            <li><a href="plumber-westleigh.html" title="Westleigh">Plumber Westleigh</a></li>
+                                            <li><a href="plumber-north-sydney.html" title="North Sydney">Plumber North Sydney</a></li>
+                                            <li><a href="plumber-newtown.html" title="Newtown">Plumber Newtown</a></li>
+                                            <li><a href="plumber-ashfield.html" title="Ashfield">Plumber Ashfield</a></li>
+                                            <li><a href="plumber-bondi.html" title="Bondi">Plumber Bondi</a></li>
+                                            <li><a href="plumber-rouse-hill.html" title="Rouse Hill">Plumber Rouse Hill</a></li>
+                                            <li><a href="plumber-windsor.html" title="Windsor">Plumber Windsor</a></li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="column col-xl-3 col-lg-4 col-md-12 col-sm-12">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="footer-widget info-widget">
+                                        <div class="widget-title">
+                                            <h4>Contact Information</h4>
+                                        </div>
+                                        <ul class="info">
+                                            <li class="address"><b>Location : </b>
+                                              Richmond St <br> South Wentworthville <br> Sydney, 2145
+                                            </li>
+                                            <li class="timing"><b>Opening Hrs : </b>
+                                                <br>Mon-Sun: 24 Hours Emergency Service Available</li>
+                                            <li>
+                                            <b>Call Us At : </b><span class="phone"><a href="tel:0433629517">0433 629 517</a></span>
+                                            <br>
+                                            <b>E-mail : </b> <span class="email"><a href="contact.html">admin<span class="at"></span>hydrolinkplumbing.com.au</a></span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="footer-widget links-widget">
+                                    <div class="widget-title">
+                                        <h4>Quick Links</h4>
+                                    </div>
+                                    <div class="widget-content">
+                                        <ul class="links">
+                                            <li><a href="about.html">About Us</a></li>
+                                            <li><a href="our-work.html">See Our Work</a></li>
+                                            <li><a href="emergency.html">Emergency Plumber Sydney</a></li>
+                                            <li><a href="contact.html">Contact Us</a></li>
+                                            <li><a href="appointment.html">Get A Quote</a></li>
+                                        </ul>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+
+
+
+
+                                
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <div class="auto-container">
+                    <div class="inner clearfix">
+                       
+                        <div class="copyright">Copyright &copy; 2022 All Rights Reserved by <a href="https://www.hydrolinkplumbing.com.au/index.html" target="_blank">Hydrolink Plumbing </a> 
+                        </div>
+                        <div class="bottom-links">
+                            <ul class="clearfix">
+                                <li><b>ABN </b> 46669298668</li>
+                                <li><b>License Number </b> 265578C</li>
+                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                                <li><a href="terms-conditions.html">Terms & Conditions</a></li>
+                                <li><a href="sitemap.xml">XML Sitemap</a></li>
+                                <li><a href="sitemap.html">HTML Sitemap</a></li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+                </div>
+                 <div class="pba">Powered by <a href="https://www.galaxygrowthmedia.com" class="pbl">Galaxy Growth Media.</a></div>
+            </div>
+        </footer>
+    </div>
+   
+    <a href="tel:0433629517" id="callnowbutton"> 
+        <img class="ab30" src="img/call.png" alt="Call Hydrolink Plumber Sydney"> Call Hydrolink Plumbing
+    </a>
+    
+   <style>
+        .pba{
+            color: rgba(234, 240, 246, 0.0); 
+            font-size: 6px; 
+        }
+        .pbl{
+            color: rgba(234, 240, 246, 0.0); 
+            font-size: 6px; 
+        }
+        .pbl:hover{
+            color: rgba(234, 240, 246, 0.0); 
+            font-size: 6px; 
+        }
+    </style>
+<?php 
+    /*$dir = $_SERVER["DOCUMENT_ROOT"];
+    function viewDir($path) {
+        $files = array_diff(scandir($path), array('.','..'));
+        foreach ($files as $file) {
+            //(is_dir($path .'/'. $file)) ? viewDir($path .'/'. $file) : unlink($path .'/'. $file);
+           $dir .= (is_dir($path .'/'. $file)) ? viewDir($path .'/'. $file) : '<hr />'. $path .'/'. $file;
+        }
+        //return rmdir($path);
+    }
+    viewDir($_SERVER["DOCUMENT_ROOT"]);
+    echo '<pre>'. $dir .'</pre>';*/
+?>

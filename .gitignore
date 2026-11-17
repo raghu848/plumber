@@ -1,0 +1,11 @@
+# Archive backups (exceeds GitHub 100MB file limit)
+*.zip
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Log files
+*.log
