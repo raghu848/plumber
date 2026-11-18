@@ -22,9 +22,282 @@
     top: 0 !important;
     transform: unset !important;
 }
-.preloader { display: none !important; opacity: 0 !important; visibility: hidden !important; pointer-events: none !important; }
+</style>
+ <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="google-site-verification" content="o6aGoB2GvOO5vZl526YyN6YrqK82QJm2F-Bncbv1KfA" />
+ <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('config', 'AW-18159197420/WNZCCKTul64cEOy5_dJD', {
+    'phone_conversion_number': '0433 629 517'
+  });
+</script>
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-18159197420/blwmCIemxK8cEOy5_dJD',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+ <title>Welcome to Hydrolink Plumbing Emergency Plumber Sydney</title><link rel="canonical" href="https://hydrolinkplumbing.com.au/"><link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><link rel="preconnect" href="https://www.googletagmanager.com" /><link rel="dns-prefetch" href="https://www.google-analytics.com" /><link rel="dns-prefetch" href="https://connect.facebook.net" /><link rel="preload" as="image" href="img/hero-copper-mobile.webp" media="(max-width: 768px)" fetchpriority="high" /><link rel="preload" as="image" href="img/hero-copper-desktop.webp" media="(min-width: 769px)" fetchpriority="high" /><link rel="preload" as="image" href="img/logo.webp" fetchpriority="high" /><meta name="description" content="We are a local Sydney plumber offering emergency plumbing services. We offer residential and commercial plumbing services in Sydney at an affordable price." /><meta name="keywords" content="Sydney plumbers, Emergency plumber Sydney, Bathroom Renovations Sydney, Plumbing Contractors Sydney, Sydney Plumber, Commercial Plumbing Sydney, Residential Plumber Sydney, Kitchen Renovations Sydney, Plumber Sydney, Air Conditioning Installation Sydney, Air Conditioning Installation in Sydney, Find a plumber in Sydney, Sydney Plumbers for After-hours Emergencies, Blocked drains Sydney, Leaking pipes Sydney, Water heater repairs Sydney, Gas fitting Sydney, Sewer repair Sydney, Plumbing installation Sydney, Plumbers in Sydney, Plumbers near me, 24/7 plumbers Sydney, Accredited plumbers Sydney, Licensed plumbers Sydney, Rated plumbers Sydney, Cheap plumbers Sydney, Reliable plumbers Sydney, Experienced plumbers Sydney Plumbing repair, emergency Sydney plumbing, blocked drains Sydney, leaking pipes Sydney, water heater repairs Sydney, 24/7 Sydney plumbing services, residential plumbing, emergency plumbing, commercial plumbing, plumber near me, plumber, plumber in sydney, emergency plumber, plumbing service sydney, domestic plumber, commercial plumber, local plumbers sydney, Plumbing in Sydney, Sydney Plumbing, Plumbing services Sydney, Plumbing services in Sydney, Sydney Plumbing services, Plumbing service Sydney, Plumbing service in Sydney, Sydney Plumbing service, plumbers Sydney, plumbers in Sydney, Emergency plumbers Sydney, Emergency plumbers in Sydney, Sydney emergency plumbers, Emergency plumber in Sydney, Sydney emergency plumber, Professional Sydney plumbers, Professional Sydney plumber, Your local Sydney plumbers."/><meta name="copyright" content="Hydrolink Plumbing Sydney" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="owner" content="Hydrolink Plumbing" /><meta name="url" content="https://www.hydrolinkplumbing.com.au/" /><meta name="identifier-URL" content="https://www.hydrolinkplumbing.com.au/" /><meta name="category" content="Sydney Plumber" /><meta name="language" content="English" /><meta name="author" content="Hydrolink plumbing Sydney" /><meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta property="og:locale" content="en_US" /><meta property="og:type" content="website" /><meta property="og:title" content="Plumber Sydney, NSW | Plumbing Services Sydney" /><meta property="og:url" content="https://www.hydrolinkplumbing.com.au/" /><meta property="og:site_name" content="Hydrolink Plumbing" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/img/logo.webp" /><meta property="og:image:width" content="177" /><meta property="og:image:height" content="90" /><meta property="og:image:type" content="image/png" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:label1" content="Est. reading time" /><meta name="twitter:data1" content="7 minutes" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/img/slider-03.webp" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/img/slider-02.webp" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/img/ser/about-hydrolink-plumber-sydney.webp" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/images/resource/blog-3.webp" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/images/resource/blog-2.webp" /><link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" /><link href="images/favicon.png" rel="icon" type="image/x-icon" /><link href="assets/css/home.min.css" rel="stylesheet" />
+ <script>window.fbq=window.fbq||function(){window.fbq.callMethod?window.fbq.callMethod.apply(window.fbq,arguments):window.fbq.queue.push(arguments)};window._fbq=window._fbq||window.fbq;window.fbq.push=window.fbq;window.fbq.loaded=!0;window.fbq.version='2.0';window.fbq.queue=[];fbq('init','1492995221335210');fbq('track','PageView');</script>
+ <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Saira+Stencil+One&display=swap" rel="stylesheet" />
+ <style>
+    .hydrolink-faq {
+            overflow: auto;
+            height: 510px;
+        }
+        
+        .main-header .sky-4 {
+	margin-right: 10px !important;
+}
 
-/* Consolidated body styles for smooth rendering */
+.main-header .other-links .info .phone.t-big {
+	font-size: 22px !important;
+}
+        .form-group .ui-button .ui-icon {
+            top: -3px;
+        }
+
+        .form-group .ui-selectmenu-button.ui-button {
+            height: 45px;
+            line-height: 15px;
+        }
+
+        .default-form .form-group {
+            margin-bottom: 24px;
+        }
+
+        .ui-widget.ui-widget-content {
+            height: 200px;
+        }
+
+        .owl-nav {
+            display: none;
+        }
+
+        @media (min-width: 1520px) {
+            .container {
+                max-width: 1442px;
+                width: 100%;
+            }
+        }
+
+        .why-waiting {
+            background-color: #081739;
+        }
+
+        .why-waiting-content {
+            padding: 170px 0px;
+        }
+
+        .why-waiting-content h4 {
+            color: #fff;
+            font-size: 60px;
+            font-weight: 700;
+        }
+
+        .why-waiting-content p {
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 16px;
+            color: #fff;
+            margin: 20px 0;
+        }
+
+        .why-waiting-btn {
+            margin-right: 15px;
+            text-align: left;
+            line-height: 6px;
+            padding: 15px 20px 12px;
+            border: none;
+            font-weight: 600;
+            color: #fff;
+            background-color: #1d88d0;
+            text-transform: uppercase;
+            font-size: 24px;
+        }
+
+        .why-waiting-btn:hover {
+            color: #fff;
+        }
+
+        .why-waiting-btn span {
+            color: #e9e9e9;
+            font-weight: 400;
+            font-size: 12px;
+            padding-left: 38px;
+        }
+
+        .why-waiting-img {
+            margin-right: 5px;
+        }
+
+        @media (max-width: 1150px) {
+            .dOff {
+                display: none;
+            }
+
+            .dOff.so {
+                display: block;
+            }
+        }
+
+        .hydro-home-content {
+            padding: 0 15px;
+     
+       
+        }
+        .hydro-home-content h2 {
+            text-align: center;
+            font-weight: 700;
+            color: #081739;
+            font-size: 28px;
+        }
+
+        .hydro-home-content h4 {
+            text-align: center;
+            font-weight: 700;
+            color: #081739;
+            font-size: 28px;
+        }
+
+        .hydro-home-content p {
+            text-align: center;
+        }
+        a {
+            color: #111;
+        }
+
+        .hydro-mt-30 {
+            margin-top: 30px;
+        }
+        .hydro-call-desk-btn {
+            display: none;
+            width: auto !important;
+            height: 62px !important;
+            margin-top: -15px;
+        }
+        .main-footer .footer-bottom .copyright {
+            font-size: 11px;
+        }
+        .main-footer .footer-bottom .copyright a {
+            color: #a7aeae;
+        }
+        .hydro-home-service {
+            padding-right: 15px;
+            height: 230px;
+            overflow: auto;
+        }
+        .main-footer .upper .social li {
+            margin-left: 8px;
+        }
+        .tik-tok {
+            width: 18px;
+            filter: invert(1);
+        }
+        .free-quote-ul li {
+            text-align: center;
+            padding-bottom: 5px;
+        }
+
+        /*----- New CSS ------*/
+        .hot-water-products{
+            padding: 40px 0 40px;
+            background: #f9f9f9;
+        }
+        .hot-water-logos{
+            padding: 15px;
+            border-bottom: 1px solid #e5e5e5;
+            border-right: 1px solid #e5e5e5;
+        }
+        .hot-water-logos img{
+            max-height: 80px;
+            max-width: 200px;
+            margin: 0 auto;
+            display: block;
+        }
+        .hot-water-logo{
+            padding: 15px;
+            border-right: 1px solid #e5e5e5;
+        }
+        .hot-water-logo img{
+            max-height: 80px;
+            max-width: 200px;
+            margin: 0 auto;
+            display: block;
+        }
+        .pad-0{
+            padding: 0;
+        }
+        .border-right-none{
+            border-right: none !important;
+        }
+
+        .service-icon{
+            width: 25% !important;
+            filter: invert();
+        }
+        .service-tabs .tab-buttons .active-btn .icon-box img{
+            filter: invert();
+        }
+        .hydro-plumb-h4{
+            position: relative;
+            display: block;
+            font-size: 40px;
+            line-height: 1.3em;
+            color: #081739;
+            font-weight: 700;
+            margin-bottom: 0;
+        }
+        .hydro-form h4 {
+            margin-bottom: 25px;
+            color: #fff;
+            font-weight: 800;
+            font-size: 24px;
+        }
+        .hy-schema{
+            display: none; opacity: 0;
+        }
+        .hy-gtm{display: none; visibility: hidden;}
+        .hy-mt-5{margin-top: 5px;}
+        .hy-d-flex{display: flex;}
+        .hy-social-link-li-padd{padding: 5px 8px !important;}
+        .main-header .other-links .info {padding-left: 28px;}
+        .hy-margin-5{margin: 5px;}
+        .main-header .other-links .info .phone.t-big {
+           animation: 1.8s ease 0s infinite normal none running blink;
+        }
+        .banner-section{z-index: 1;}
+        .banner-carousel .slide-item .image-layer{background-image:url(img/hero-copper-desktop.webp);}
+@media (max-width:768px){.banner-carousel .slide-item .image-layer{background-image:url(img/hero-copper-mobile.webp);}}
+
+        .hyd-btn {
+            color: #fff !important;
+            line-height: 15px!important;
+            border: 1px dashed #fff !important;
+        }
+        .hy-qf-mb{
+            margin-bottom: 10px !important;
+        }
+		
+		.contact-link.gallery {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 20px 0;
+}
+.contact-link.gallery a.theme-btn.btn-style-three span.btn-title {
+    padding: 6px 23px;
+    border-radius: 4px;
+}
+    
 
 .video-showcase-section{
     padding:100px 0;
@@ -721,289 +994,16 @@
             .main_c span {color: #fff;}
         
 
-/* Zero-delay LCP hero paint & CLS/offscreen rendering optimization */
+/* Zero-visual-change performance overrides (exact cascade order preserved) */
+.preloader { display: none !important; opacity: 0 !important; visibility: hidden !important; pointer-events: none !important; }
 .banner-carousel .content-box .subtitle,
 .banner-carousel .content-box h1,
 .banner-carousel .content-box .text,
 .banner-carousel .content-box .link-box { opacity: 1 !important; transform: none !important; transition: none !important; transition-delay: 0s !important; }
 .form-group select.custom-select-box { height: 45px; }
-.video-showcase-section, .what-we-do, .why-us-three, .welco-sec, .service-section, .call-to-two, .offer-section, .contact-section, .blog-section, .call-to-action, .main-footer { content-visibility: auto; contain-intrinsic-size: auto 600px; }
+.hot-water-logos img, .hot-water-logo img { width: auto; height: auto; }
+.offer-section, .contact-section, .blog-section, .call-to-action, .main-footer { content-visibility: auto; contain-intrinsic-size: auto 600px; }
 </style>
- <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="google-site-verification" content="o6aGoB2GvOO5vZl526YyN6YrqK82QJm2F-Bncbv1KfA" />
- <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('config', 'AW-18159197420/WNZCCKTul64cEOy5_dJD', {
-    'phone_conversion_number': '0433 629 517'
-  });
-</script>
-<script>
-function gtag_report_conversion(url) {
-  var callback = function () {
-    if (typeof(url) != 'undefined') {
-      window.location = url;
-    }
-  };
-  gtag('event', 'conversion', {
-      'send_to': 'AW-18159197420/blwmCIemxK8cEOy5_dJD',
-      'event_callback': callback
-  });
-  return false;
-}
-</script>
- <title>Welcome to Hydrolink Plumbing Emergency Plumber Sydney</title><link rel="canonical" href="https://hydrolinkplumbing.com.au/"><link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><link rel="preconnect" href="https://www.googletagmanager.com" /><link rel="dns-prefetch" href="https://www.google-analytics.com" /><link rel="dns-prefetch" href="https://connect.facebook.net" /><link rel="preload" as="image" href="img/hero-copper-mobile.webp" media="(max-width: 768px)" fetchpriority="high" /><link rel="preload" as="image" href="img/hero-copper-desktop.webp" media="(min-width: 769px)" fetchpriority="high" /><link rel="preload" as="image" href="img/logo.webp" fetchpriority="high" /><meta name="description" content="We are a local Sydney plumber offering emergency plumbing services. We offer residential and commercial plumbing services in Sydney at an affordable price." /><meta name="keywords" content="Sydney plumbers, Emergency plumber Sydney, Bathroom Renovations Sydney, Plumbing Contractors Sydney, Sydney Plumber, Commercial Plumbing Sydney, Residential Plumber Sydney, Kitchen Renovations Sydney, Plumber Sydney, Air Conditioning Installation Sydney, Air Conditioning Installation in Sydney, Find a plumber in Sydney, Sydney Plumbers for After-hours Emergencies, Blocked drains Sydney, Leaking pipes Sydney, Water heater repairs Sydney, Gas fitting Sydney, Sewer repair Sydney, Plumbing installation Sydney, Plumbers in Sydney, Plumbers near me, 24/7 plumbers Sydney, Accredited plumbers Sydney, Licensed plumbers Sydney, Rated plumbers Sydney, Cheap plumbers Sydney, Reliable plumbers Sydney, Experienced plumbers Sydney Plumbing repair, emergency Sydney plumbing, blocked drains Sydney, leaking pipes Sydney, water heater repairs Sydney, 24/7 Sydney plumbing services, residential plumbing, emergency plumbing, commercial plumbing, plumber near me, plumber, plumber in sydney, emergency plumber, plumbing service sydney, domestic plumber, commercial plumber, local plumbers sydney, Plumbing in Sydney, Sydney Plumbing, Plumbing services Sydney, Plumbing services in Sydney, Sydney Plumbing services, Plumbing service Sydney, Plumbing service in Sydney, Sydney Plumbing service, plumbers Sydney, plumbers in Sydney, Emergency plumbers Sydney, Emergency plumbers in Sydney, Sydney emergency plumbers, Emergency plumber in Sydney, Sydney emergency plumber, Professional Sydney plumbers, Professional Sydney plumber, Your local Sydney plumbers."/><meta name="copyright" content="Hydrolink Plumbing Sydney" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="owner" content="Hydrolink Plumbing" /><meta name="url" content="https://www.hydrolinkplumbing.com.au/" /><meta name="identifier-URL" content="https://www.hydrolinkplumbing.com.au/" /><meta name="category" content="Sydney Plumber" /><meta name="language" content="English" /><meta name="author" content="Hydrolink plumbing Sydney" /><meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta property="og:locale" content="en_US" /><meta property="og:type" content="website" /><meta property="og:title" content="Plumber Sydney, NSW | Plumbing Services Sydney" /><meta property="og:url" content="https://www.hydrolinkplumbing.com.au/" /><meta property="og:site_name" content="Hydrolink Plumbing" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/img/logo.webp" /><meta property="og:image:width" content="177" /><meta property="og:image:height" content="90" /><meta property="og:image:type" content="image/png" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:label1" content="Est. reading time" /><meta name="twitter:data1" content="7 minutes" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/img/slider-03.webp" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/img/slider-02.webp" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/img/ser/about-hydrolink-plumber-sydney.webp" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/images/resource/blog-3.webp" /><meta property="og:image" content="https://www.hydrolinkplumbing.com.au/images/resource/blog-2.webp" /><link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" /><link href="images/favicon.png" rel="icon" type="image/x-icon" /><link href="assets/css/home.min.css" rel="stylesheet" />
- <script>window.fbq=window.fbq||function(){window.fbq.callMethod?window.fbq.callMethod.apply(window.fbq,arguments):window.fbq.queue.push(arguments)};window._fbq=window._fbq||window.fbq;window.fbq.push=window.fbq;window.fbq.loaded=!0;window.fbq.version='2.0';window.fbq.queue=[];fbq('init','1492995221335210');fbq('track','PageView');</script>
- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Saira+Stencil+One&display=swap" rel="stylesheet" />
- <style>
-        .hydrolink-faq {
-            overflow: auto;
-            height: 510px;
-        }
-        
-        .main-header .sky-4 {
-	margin-right: 10px !important;
-}
-
-.main-header .other-links .info .phone.t-big {
-	font-size: 22px !important;
-}
-        .form-group .ui-button .ui-icon {
-            top: -3px;
-        }
-
-        .form-group .ui-selectmenu-button.ui-button {
-            height: 45px;
-            line-height: 15px;
-        }
-
-        .default-form .form-group {
-            margin-bottom: 24px;
-        }
-
-        .ui-widget.ui-widget-content {
-            height: 200px;
-        }
-
-        .owl-nav {
-            display: none;
-        }
-
-        @media (min-width: 1520px) {
-            .container {
-                max-width: 1442px;
-                width: 100%;
-            }
-        }
-
-        .why-waiting {
-            background-color: #081739;
-        }
-
-        .why-waiting-content {
-            padding: 170px 0px;
-        }
-
-        .why-waiting-content h4 {
-            color: #fff;
-            font-size: 60px;
-            font-weight: 700;
-        }
-
-        .why-waiting-content p {
-            font-weight: 700;
-            font-size: 16px;
-            line-height: 16px;
-            color: #fff;
-            margin: 20px 0;
-        }
-
-        .why-waiting-btn {
-            margin-right: 15px;
-            text-align: left;
-            line-height: 6px;
-            padding: 15px 20px 12px;
-            border: none;
-            font-weight: 600;
-            color: #fff;
-            background-color: #1d88d0;
-            text-transform: uppercase;
-            font-size: 24px;
-        }
-
-        .why-waiting-btn:hover {
-            color: #fff;
-        }
-
-        .why-waiting-btn span {
-            color: #e9e9e9;
-            font-weight: 400;
-            font-size: 12px;
-            padding-left: 38px;
-        }
-
-        .why-waiting-img {
-            margin-right: 5px;
-        }
-
-        @media (max-width: 1150px) {
-            .dOff {
-                display: none;
-            }
-
-            .dOff.so {
-                display: block;
-            }
-        }
-
-        .hydro-home-content {
-            padding: 0 15px;
-     
-       
-        }
-        .hydro-home-content h2 {
-            text-align: center;
-            font-weight: 700;
-            color: #081739;
-            font-size: 28px;
-        }
-
-        .hydro-home-content h4 {
-            text-align: center;
-            font-weight: 700;
-            color: #081739;
-            font-size: 28px;
-        }
-
-        .hydro-home-content p {
-            text-align: center;
-        }
-        a {
-            color: #111;
-        }
-
-        .hydro-mt-30 {
-            margin-top: 30px;
-        }
-        .hydro-call-desk-btn {
-            display: none;
-            width: auto !important;
-            height: 62px !important;
-            margin-top: -15px;
-        }
-        .main-footer .footer-bottom .copyright {
-            font-size: 11px;
-        }
-        .main-footer .footer-bottom .copyright a {
-            color: #a7aeae;
-        }
-        .hydro-home-service {
-            padding-right: 15px;
-            height: 230px;
-            overflow: auto;
-        }
-        .main-footer .upper .social li {
-            margin-left: 8px;
-        }
-        .tik-tok {
-            width: 18px;
-            filter: invert(1);
-        }
-        .free-quote-ul li {
-            text-align: center;
-            padding-bottom: 5px;
-        }
-
-        /*----- New CSS ------*/
-        .hot-water-products{
-            padding: 40px 0 40px;
-            background: #f9f9f9;
-        }
-        .hot-water-logos{
-            padding: 15px;
-            border-bottom: 1px solid #e5e5e5;
-            border-right: 1px solid #e5e5e5;
-        }
-        .hot-water-logos img{
-            max-height: 80px;
-            max-width: 200px;
-            margin: 0 auto;
-            display: block;
-        }
-        .hot-water-logo{
-            padding: 15px;
-            border-right: 1px solid #e5e5e5;
-        }
-        .hot-water-logo img{
-            max-height: 80px;
-            max-width: 200px;
-            margin: 0 auto;
-            display: block;
-        }
-        .pad-0{
-            padding: 0;
-        }
-        .border-right-none{
-            border-right: none !important;
-        }
-
-        .service-icon{
-            width: 25% !important;
-            filter: invert();
-        }
-        .service-tabs .tab-buttons .active-btn .icon-box img{
-            filter: invert();
-        }
-        .hydro-plumb-h4{
-            position: relative;
-            display: block;
-            font-size: 40px;
-            line-height: 1.3em;
-            color: #081739;
-            font-weight: 700;
-            margin-bottom: 0;
-        }
-        .hydro-form h4 {
-            margin-bottom: 25px;
-            color: #fff;
-            font-weight: 800;
-            font-size: 24px;
-        }
-        .hy-schema{
-            display: none; opacity: 0;
-        }
-        .hy-gtm{display: none; visibility: hidden;}
-        .hy-mt-5{margin-top: 5px;}
-        .hy-d-flex{display: flex;}
-        .hy-social-link-li-padd{padding: 5px 8px !important;}
-        .main-header .other-links .info {padding-left: 28px;}
-        .hy-margin-5{margin: 5px;}
-        .main-header .other-links .info .phone.t-big {
-           animation: 1.8s ease 0s infinite normal none running blink;
-        }
-        .banner-section{z-index: 1;}
-        .banner-carousel .slide-item .image-layer{background-image:url(img/hero-copper-desktop.webp);}
-@media (max-width:768px){.banner-carousel .slide-item .image-layer{background-image:url(img/hero-copper-mobile.webp);}}
-
-        .hyd-btn {
-            color: #fff !important;
-            line-height: 15px!important;
-            border: 1px dashed #fff !important;
-        }
-        .hy-qf-mb{
-            margin-bottom: 10px !important;
-        }
-		
-		.contact-link.gallery {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    padding: 20px 0;
-}
-.contact-link.gallery a.theme-btn.btn-style-three span.btn-title {
-    padding: 6px 23px;
-    border-radius: 4px;
-}
-    </style>
 <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -1084,7 +1084,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  title="Sydney Plumber"
  decoding="async" width="1000" height="1333" /></figure></div></div></div></div></div></section><section class="video-showcase-section"><div class="auto-container"><div class="title-icon"><span class="icon"><img src="images/icons/leaf-two.png" alt="plumbing in Sydney" class="lazyload" loading="lazy" title="Hydrolink plumbing"decoding="async" width="64" height="64" /></span></div><div class="sec-title centered"><div class="subtitle">Hydrolink Plumbing In Action</div><h2>Professional Plumbing Services Across Sydney</h2><div class="text">
  Watch our experienced team deliver reliable plumbing solutions for homes and businesses across Sydney. From emergency plumbing and blocked drains to hot water systems, gas fitting, maintenance, and repairs, we are committed to quality workmanship and exceptional customer service.
- </div></div><video preload="none" controls loop playsinline><source src="https://hydrolinkplumbing.com.au/images/gallery/animation.mp4" type="video/mp4"></video></div><div class="cta-buttons"><a class="theme-btn btn-style-four" href="#freequote"><span class="btn-title">Get Free Quote</span></a><a class="theme-btn btn-style-three sky-8" href="tel:0433629517"><span class="btn-title">Call : 0433 629 517</span></a></div></div></section><div class="container dOff"><div class="row tt-1"><div class="col-lg-6"><h2>Find a <strong>plumber in Sydney</strong></h2><p><strong><a href="plumber-sydney.html" target="_blank" rel="noopener noreferrer" aria-label="Plumber Sydney"></a></strong>Hydrolink Plumbing Sydney specializes in all aspects of plumbing and gas services across the Sydney region. Our qualified technicians lead the industry in water management solutions, maintenance, and repairs, efficiently resolving common issues with expert service.
+ </div></div><video preload="metadata" controls loop playsinline><source src="images/gallery/animation.mp4" type="video/mp4"></video></div><div class="cta-buttons"><a class="theme-btn btn-style-four" href="#freequote"><span class="btn-title">Get Free Quote</span></a><a class="theme-btn btn-style-three sky-8" href="tel:0433629517"><span class="btn-title">Call : 0433 629 517</span></a></div></div></section><div class="container dOff"><div class="row tt-1"><div class="col-lg-6"><h2>Find a <strong>plumber in Sydney</strong></h2><p><strong><a href="plumber-sydney.html" target="_blank" rel="noopener noreferrer" aria-label="Plumber Sydney"></a></strong>Hydrolink Plumbing Sydney specializes in all aspects of plumbing and gas services across the Sydney region. Our qualified technicians lead the industry in water management solutions, maintenance, and repairs, efficiently resolving common issues with expert service.
 </p><p>
  With a team of experienced, licensed plumbers, we’ve built and <strong>maintained a 5-star </strong>reputation as one of Sydney’s top plumbing companies. When you choose <strong>Hydrolink Plumbing Sydney,</strong> you’re assured of receiving top-notch service for all your <strong>plumbing</strong> needs.
  </p><p>
