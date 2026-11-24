@@ -163,4 +163,35 @@ src="https://www.facebook.com/tr?id=1492995221335210&ev=PageView&noscript=1"
                 document.getElementById("mySidenav").style.width = "0";
             }
         </script>
- <script type="text/javascript">(function(){var d=false;function l(){if(d)return;d=true;["https://connect.facebook.net/en_US/fbevents.js","https://trkcall.com/scripts/97472.js","https://www.googletagmanager.com/gtag/js?id=G-X6Z2YJ4GGV"].forEach(function(u){var s=document.createElement("script");s.src=u;s.async=true;document.head.appendChild(s);});}["scroll","mousemove","touchstart","pointerdown","click","keydown"].forEach(function(e){window.addEventListener(e,l,{passive:true,once:true});});document.querySelectorAll("form").forEach(function(f){f.addEventListener("focusin",l,{once:true});});})();</script></body></html>
+ <script type="text/javascript">(function(){var d=false;function l(){if(d)return;d=true;["https://connect.facebook.net/en_US/fbevents.js","https://trkcall.com/scripts/97472.js","https://www.googletagmanager.com/gtag/js?id=G-X6Z2YJ4GGV"].forEach(function(u){var s=document.createElement("script");s.src=u;s.async=true;document.head.appendChild(s);});}["scroll","mousemove","touchstart","pointerdown","click","keydown"].forEach(function(e){window.addEventListener(e,l,{passive:true,once:true});});document.querySelectorAll("form").forEach(function(f){f.addEventListener("focusin",l,{once:true});});})();</script><script data-cfasync="false">
+  (function () {
+    try { window.sophiie?.chat?.destroy?.(); } catch (e) {}
+    var loaded = false;
+    function init() {
+      if (loaded) return;
+      loaded = true;
+      window.sophiie.chat.load({
+        orgId: 'org_2dSoYPLketjxrwpbUn7D7PeNqw9m',
+        render: { mode: 'overlay' }
+      });
+    }
+    if (typeof window.sophiie?.chat?.load === 'function') { init(); return; }
+    var s = document.createElement('script');
+    s.async = true;
+    s.type = 'module';
+    s.setAttribute('data-cfasync', 'false');
+    s.addEventListener('load', function () {
+      if (typeof window.sophiie?.chat?.load === 'function') init();
+      else console.error('[sophiie] chatbot bundle loaded but did not expose window.sophiie.chat.load');
+    });
+    s.addEventListener('error', function () { console.error('[sophiie] chatbot bundle failed to load'); });
+    s.src = 'https://cdn.sophiie.ai/chatbot/bundle.mjs';
+    (document.head || document.documentElement).appendChild(s);
+    (function fallback() {
+      if (loaded) return;
+      if (typeof window.sophiie?.chat?.load === 'function') { init(); return; }
+      setTimeout(fallback, 1000);
+    })();
+  })();
+</script>
+</body></html>

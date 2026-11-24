@@ -54,7 +54,6 @@ function recaptchaValid($recaptchaResponse) {
             $_mail->FromName = "Hydrolink Plumbing"; 
             $_mail->addReplyTo('info@hydrolinkplumbing.com.au');
             $_mail->addAddress('info@hydrolinkplumbing.com.au');
-            $_mail->addBCC("vikrampoddarbhai@gmail.com");
             $_mail->addCC($email);
     		$_mail->isHTML(true); 
     		$_mail->Subject = $subject; 
