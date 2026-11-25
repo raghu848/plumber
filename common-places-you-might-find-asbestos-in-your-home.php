@@ -12,7 +12,7 @@
                         <h1 class="title"><?php echo $blogname; ?></h1>
                     </div>
                     <div class="breadcrumb-wrapper">
-                        <span><a title="Homepage" href="index.html"><i class="ti ti-home"></i>&nbsp; Home</a></span>
+                        <span><a title="Homepage" href="/"><i class="ti ti-home"></i>&nbsp; Home</a></span>
                         <span class="ttm-bread-sep ttm-textcolor-white">&nbsp;   →  &nbsp;</span>
                         <span class="ttm-textcolor-skincolor"> Blogs</span>
                         <span class="ttm-bread-sep ttm-textcolor-white">&nbsp;   →  &nbsp;</span>

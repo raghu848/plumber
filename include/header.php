@@ -190,7 +190,7 @@
                <div class="inner-container clearfix">
                   <div class="logo-box">
                      <div class="logo">
-                        <a href="index.html" title="Hydrolink Plumbing">
+                        <a href="https://hydrolinkplumbing.com.au/" title="Hydrolink Plumbing">
                            <img src="img/logo.webp" width="175" height="90" title="Hydrolink Plumbing sydney" alt="plumbers in sydney" fetchpriority="high" decoding="async" />
                         </a>
                      </div>
@@ -312,7 +312,7 @@
                      <nav class="main-menu navbar-expand-md navbar-light">
                         <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                            <ul class="navigation clearfix">
-                              <li><a href="index.html" title="Home">Home</a></li>
+                              <li><a href="https://hydrolinkplumbing.com.au/" title="Home">Home</a></li>
                               <li><a href="about.html" title="About Us">About Us</a></li>
                               <li class="dropdown">
                                  <a href="javascript:void(0);" title="Services">Our Services</a> 
@@ -459,7 +459,7 @@
          </div>
          <div class="sticky-header">
             <div class="auto-container clearfix">
-               <div class="logo pull-left"> <a href="index.html" title="Home"> <img src="img/logo.webp" width="175" height="90" alt="plumber sydney" title="plumber sydney" fetchpriority="high" decoding="async" /> </a> </div>
+               <div class="logo pull-left"> <a href="https://hydrolinkplumbing.com.au/" title="Home"> <img src="img/logo.webp" width="175" height="90" alt="plumber sydney" title="plumber sydney" fetchpriority="high" decoding="async" /> </a> </div>
                <div class="pull-right clearfix">
                   <nav class="main-menu navbar-expand-md navbar-light"> </nav>
                   <div class="contact-link"> <a href="appointment.html" class="theme-btn btn-style-three" title=" Get A Quote"><span class="btn-title"> Get A Quote</span></a> </div>
@@ -470,7 +470,7 @@
             <div class="menu-backdrop"></div>
             <div class="close-btn"><span class="icon flaticon-letter-x"></span> </div>
             <nav class="menu-box">
-               <div class="nav-logo"> <a href="index.html" title="plumbers sydney logo"> <img src="img/logo.webp" width="175" height="90" alt="plumbers sydney" title="Plumbers Sydney Hydrolink Plumbing" fetchpriority="high" decoding="async" /> </a> </div>
+               <div class="nav-logo"> <a href="https://hydrolinkplumbing.com.au/" title="plumbers sydney logo"> <img src="img/logo.webp" width="175" height="90" alt="plumbers sydney" title="Plumbers Sydney Hydrolink Plumbing" fetchpriority="high" decoding="async" /> </a> </div>
                <div class="menu-outer"></div>
                <div class="contact-link"> <a href="appointment.html" class="theme-btn btn-style-three" title=" Get A Quote"><span class="btn-title"> Get A Quote</span></a> </div>
                <div class="social-links">
