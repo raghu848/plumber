@@ -8,9 +8,10 @@ global $_mail;
 error_reporting(0);
 
 function recaptchaValid($recaptchaResponse) {
+    global $_secrets;
     $api_url = 'https://www.google.com/recaptcha/api/siteverify'; 
     $resq_data = array( 
-        'secret' => '6LfLESApAAAAACTVaoR0QQGM30Wi7xjB9pvHixz6', 
+        'secret' => $_secrets['recaptcha_v3_secret'], 
         'response' => $recaptchaResponse, 
         'remoteip' => $_SERVER['REMOTE_ADDR'] 
     ); 
@@ -41,16 +42,16 @@ function recaptchaValid($recaptchaResponse) {
 }
 
 	function sendEmail($email, $subject, $htmlContent, $headers) {
-        global $_mail;
+        global $_mail, $_secrets;
 		try {
     		$_mail->isSMTP();             
             $_mail->Host = "mail.localgasheatersydney.com.au";
             $_mail->SMTPAuth = true;
-            $_mail->Username = "noreplay@localgasheatersydney.com.au";
-            $_mail->Password = "05sq]e#cJjex";
+            $_mail->Username = $_secrets['smtp_user'];
+            $_mail->Password = $_secrets['smtp_pass'];
             $_mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
             $_mail->Port = 465; 
-            $_mail->From = "noreplay@localgasheatersydney.com.au"; 
+            $_mail->From = $_secrets['smtp_user']; 
             $_mail->FromName = "Hydrolink Plumbing"; 
             $_mail->addReplyTo('info@hydrolinkplumbing.com.au');
             $_mail->addAddress('info@hydrolinkplumbing.com.au');

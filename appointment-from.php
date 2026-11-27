@@ -11,7 +11,7 @@ $special_mention = $_REQUEST['special_mention'];
 
       if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
 	   // Google secret API
-                $secretAPIkey = '6LdDqEYqAAAAAA8DILKFFqPz-j1_y-h5NiZA8hLi';
+                $secretAPIkey = (require __DIR__ . '/secrets.php')['recaptcha_secret'];
 
                 // reCAPTCHA response verification
                 $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secretAPIkey.'&response='.$_POST['g-recaptcha-response']);
@@ -23,7 +23,7 @@ else
 {
 die("Robot verification failed, please try again.");
 
-echo '<a href="index.php">Click here to go to home page</a>';
+echo '<a href="/">Click here to go to home page</a>';
 }
 $msg_data = $_REQUEST['message'];
 

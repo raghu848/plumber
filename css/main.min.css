@@ -9665,7 +9665,7 @@ figure {
   background-color: rgba(0, 0, 0, 0);
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../images/icons/awards-bg-icon.png);
+  background-image: none;
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
@@ -16386,7 +16386,7 @@ img.lazy-image.loaded {
   color: #081739;
   font-weight: 700;
   text-transform: uppercase;
-  background: url(../images/icons/award-badge.png) center top no-repeat;
+  background: none center top no-repeat;
 }
 .award-block h6 {
   font-size: 18px;
@@ -26323,13 +26323,13 @@ h3.t-w6 {
  */
 @font-face {
   font-family: FontAwesome;
-  src: url("../fonts/fontawesome-webfont.eot?v=4.7.0");
-  src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0")
+  src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0");
+  src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0")
       format("embedded-opentype"),
-    url("../fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"),
-    url("../fonts/fontawesome-webfont.woff?v=4.7.0") format("woff"),
-    url("../fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"),
-    url("../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular")
+    url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"),
+    url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0") format("woff"),
+    url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"),
+    url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular")
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -33204,7 +33204,7 @@ h3.t-w6 {
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url("owl.video.play.html") no-repeat;
+  background: none no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
@@ -38646,11 +38646,11 @@ a.ui-button:active {
 }
 .ui-button .ui-state-highlight.ui-icon,
 .ui-state-highlight .ui-icon {
-  background-image: url("images/ui-icons_777620_256x240.html");
+  background-image: none;
 }
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-  background-image: url("images/ui-icons_cc0000_256x240.html");
+  background-image: none;
 }
 .ui-icon-blank {
   background-position: 16px 16px;
@@ -40357,7 +40357,7 @@ li.fancybox-thumbs-loading {
 .mCSB_scrollTools .mCSB_buttonLeft,
 .mCSB_scrollTools .mCSB_buttonRight,
 .mCSB_scrollTools .mCSB_buttonUp {
-  background-image: url(mCSB_buttons.html);
+  background-image: none;
   background-repeat: no-repeat;
   opacity: 0.4;
   filter: "alpha(opacity=40)";
@@ -51290,7 +51290,7 @@ figure {
   background-color: rgba(0, 0, 0, 0);
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../images/icons/awards-bg-icon.png);
+  background-image: none;
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
@@ -58011,7 +58011,7 @@ img.lazy-image.loaded {
   color: #081739;
   font-weight: 700;
   text-transform: uppercase;
-  background: url(../images/icons/award-badge.png) center top no-repeat;
+  background: none center top no-repeat;
 }
 .award-block h6 {
   font-size: 18px;
@@ -67948,13 +67948,13 @@ h3.t-w6 {
  */
 @font-face {
   font-family: FontAwesome;
-  src: url("../fonts/fontawesome-webfont.eot?v=4.7.0");
-  src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0")
+  src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0");
+  src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0")
       format("embedded-opentype"),
-    url("../fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"),
-    url("../fonts/fontawesome-webfont.woff?v=4.7.0") format("woff"),
-    url("../fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"),
-    url("../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular")
+    url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"),
+    url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0") format("woff"),
+    url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"),
+    url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular")
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -74829,7 +74829,7 @@ h3.t-w6 {
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url("owl.video.play.html") no-repeat;
+  background: none no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
@@ -80271,11 +80271,11 @@ a.ui-button:active {
 }
 .ui-button .ui-state-highlight.ui-icon,
 .ui-state-highlight .ui-icon {
-  background-image: url("images/ui-icons_777620_256x240.html");
+  background-image: none;
 }
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-  background-image: url("images/ui-icons_cc0000_256x240.html");
+  background-image: none;
 }
 .ui-icon-blank {
   background-position: 16px 16px;
@@ -81982,7 +81982,7 @@ li.fancybox-thumbs-loading {
 .mCSB_scrollTools .mCSB_buttonLeft,
 .mCSB_scrollTools .mCSB_buttonRight,
 .mCSB_scrollTools .mCSB_buttonUp {
-  background-image: url(mCSB_buttons.html);
+  background-image: none;
   background-repeat: no-repeat;
   opacity: 0.4;
   filter: "alpha(opacity=40)";

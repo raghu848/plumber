@@ -1,5 +1,5 @@
 
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Thankyou</title></head><body><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet"><div class="thankyou-page"><div class="logo"><a href="https://hydrolinkplumbing.com.au"><img src="https://www.hydrolinkplumbing.com.au/img/logo.webp"></a><h3><i class="fa fa-check" aria-hidden="true"></i><br></h3><p><span>Thank You!</span></p><p class="para">Your submission has been received</p></div></div>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Thank You | Hydrolink Plumbing</title><meta name="description" content="Thank you for contacting Hydrolink Plumbing. We have received your enquiry and will be in touch." /><meta name="robots" content="noindex, nofollow" /></head><body><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet"><div class="thankyou-page"><div class="logo"><a href="https://hydrolinkplumbing.com.au/"><img src="https://hydrolinkplumbing.com.au/img/logo.webp" width="250" height="127" alt="Hydrolink Plumbing logo" /></a><div class="hs-3 ty-ico"><i class="fa fa-check" aria-hidden="true"></i><br></div><h1 class="ty-h1"><span>Thank You!</span></h1><p class="para">Your submission has been received</p></div></div>
 <style>
 body {
     margin: 0;
@@ -64,8 +64,22 @@ body {
 
 
 }
-</style>
- <script data-cfasync="false">
+
+/* heading-semantics mirror */
+.thankyou-page  .hs-3{
+    width: 50px;
+    margin: auto;
+    height: 50px;
+    background: #6cb15e;
+    border-radius: 50%;
+    margin-top: 25px;
+}
+.thankyou-page .hs-3 i.fa.fa-check{
+    color: #fff;
+    margin-top: 13px;
+    font-size: 25px;
+}h1.ty-h1{font-size:16px;font-weight:400;margin:16px 0}.ty-ico{font-size:18.72px;font-weight:700}</style>
+ <script data-cfasync="false">(function(){var __sophiieGo=0;function go(){if(__sophiieGo)return;__sophiieGo=1;
   (function () {
     try { window.sophiie?.chat?.destroy?.(); } catch (e) {}
     var loaded = false;
@@ -95,5 +109,5 @@ body {
       setTimeout(fallback, 1000);
     })();
   })();
-</script>
+}["scroll","mousemove","touchstart","pointerdown","click","keydown"].forEach(function(e){window.addEventListener(e,go,{once:true,passive:true})});})();</script>
 </body></html>

@@ -1,4 +1,13 @@
-<FilesMatch '.(php|php5|suspected|py|phtml)$'>
+# Block script files in the fonts folder. Written for Apache 2.4 with an Apache 2.2 fallback,
+# so a server without the old "Order" directive does not return HTTP 500 for font files.
+<IfModule mod_authz_core.c>
+<FilesMatch "\.(php|php5|suspected|py|phtml)$">
+Require all denied
+</FilesMatch>
+</IfModule>
+<IfModule !mod_authz_core.c>
+<FilesMatch "\.(php|php5|suspected|py|phtml)$">
 Order allow,deny
 Deny from all
 </FilesMatch>
+</IfModule>

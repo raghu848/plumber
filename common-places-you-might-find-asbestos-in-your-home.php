@@ -1,3 +1,5 @@
+<?php $canonicalphp = true; ?>
+<?php $metatitle='Common Places to Find Asbestos at Home | Hydrolink'; $metadesc='Asbestos can be found in older homes, from roofing to pipe lagging. Learn where it hides and why to get advice before you renovate. From Hydrolink Plumbing.'; ?>
 <?php include('include/header.php'); ?>
 <?php $blogname = "Common Places You Might Find Asbestos in Your Home"; ?>
 <?php $blogdate = "18 Aug 2022"; ?>
@@ -32,9 +34,6 @@
             <div class="col-lg-9">
                 <div class="ttm-service-single-content-area">
                     <div class="ttm-service-description">
-                        <div class="blog-img">
-                            <img src="pictures/blog/common-places-you-might-find-asbestos-in-your-home.jpg" alt="<?php echo $blogname; ?>">
-                        </div>
                         <h2><?php echo $blogname; ?></h2>
                         <ul class="blog-ul">
                             <li><i class="fa fa-user"></i> by Admin</li>

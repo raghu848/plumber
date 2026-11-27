@@ -9,3 +9,9 @@ Desktop.ini
 
 # Log files
 *.log
+
+# Secrets and server logs
+secrets.php
+error_log
+*.bak
+backup_index.html
